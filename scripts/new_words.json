@@ -1,0 +1,5142 @@
+[
+  {
+    "id": 1536,
+    "word": "Acrid",
+    "definition": "sharp; pungent (used of smells and tastes)"
+  },
+  {
+    "id": 1537,
+    "word": "Boorish",
+    "definition": "ill-mannered"
+  },
+  {
+    "id": 1538,
+    "word": "Epistle",
+    "definition": "a letter (form of communication)"
+  },
+  {
+    "id": 1539,
+    "word": "Heresy",
+    "definition": "against orthodox opinion"
+  },
+  {
+    "id": 1540,
+    "word": "Lance",
+    "definition": "spear; spike; javelin"
+  },
+  {
+    "id": 1541,
+    "word": "Obscure",
+    "definition": "difficult to understand; partially hidden"
+  },
+  {
+    "id": 1542,
+    "word": "Poignant",
+    "definition": "deeply moving; strongly affecting the emotions"
+  },
+  {
+    "id": 1543,
+    "word": "Respite",
+    "definition": "a break; intermission"
+  },
+  {
+    "id": 1544,
+    "word": "Terse",
+    "definition": "concise; to the point"
+  },
+  {
+    "id": 1545,
+    "word": "Acrophobia",
+    "definition": "fear of heights"
+  },
+  {
+    "id": 1546,
+    "word": "Debility",
+    "definition": "weakness; incapacity"
+  },
+  {
+    "id": 1547,
+    "word": "Epistolary",
+    "definition": "concerned with letters; through correspondence"
+  },
+  {
+    "id": 1548,
+    "word": "Hiatus",
+    "definition": "interruption; pause"
+  },
+  {
+    "id": 1549,
+    "word": "Languid",
+    "definition": "tired; slow"
+  },
+  {
+    "id": 1550,
+    "word": "Obscured",
+    "definition": "hidden; covered; buried"
+  },
+  {
+    "id": 1551,
+    "word": "Poised",
+    "definition": "calm; collected; self- possessed"
+  },
+  {
+    "id": 1552,
+    "word": "Resplendent",
+    "definition": "shining; glowing"
+  },
+  {
+    "id": 1553,
+    "word": "Therapeutic",
+    "definition": "medicinal; curative"
+  },
+  {
+    "id": 1554,
+    "word": "Acuity",
+    "definition": "sharpness (mental or visual)"
+  },
+  {
+    "id": 1555,
+    "word": "Debunking",
+    "definition": "exposing false claims or myths"
+  },
+  {
+    "id": 1556,
+    "word": "Epitomized",
+    "definition": "typified; characterized; personified"
+  },
+  {
+    "id": 1557,
+    "word": "Hidebound",
+    "definition": "rigid in opinions"
+  },
+  {
+    "id": 1558,
+    "word": "Languish",
+    "definition": "decay; fade away; get weaker"
+  },
+  {
+    "id": 1559,
+    "word": "Obsequious",
+    "definition": "servile; submissive"
+  },
+  {
+    "id": 1560,
+    "word": "Polemical",
+    "definition": "causing debate or argument"
+  },
+  {
+    "id": 1561,
+    "word": "Restorative",
+    "definition": "a tonic"
+  },
+  {
+    "id": 1562,
+    "word": "Thwart",
+    "definition": "prevent; frustrate"
+  },
+  {
+    "id": 1563,
+    "word": "Adamant",
+    "definition": "forceful; inflexible"
+  },
+  {
+    "id": 1564,
+    "word": "Brawny",
+    "definition": "muscular"
+  },
+  {
+    "id": 1565,
+    "word": "Decathlon",
+    "definition": "an athletic competition with ten events"
+  },
+  {
+    "id": 1566,
+    "word": "Hieroglyphics",
+    "definition": "1. picture writing;"
+  },
+  {
+    "id": 1567,
+    "word": "Larceny",
+    "definition": "theft; robbery; stealing"
+  },
+  {
+    "id": 1568,
+    "word": "Obsession",
+    "definition": "a dominating concern"
+  },
+  {
+    "id": 1569,
+    "word": "Ponderous",
+    "definition": "weighty; slow and heavy"
+  },
+  {
+    "id": 1570,
+    "word": "Retention",
+    "definition": "preservation; withholding"
+  },
+  {
+    "id": 1571,
+    "word": "Timorous",
+    "definition": "cowardly; fearful"
+  },
+  {
+    "id": 1572,
+    "word": "Adroit",
+    "definition": "skilful / skillful"
+  },
+  {
+    "id": 1573,
+    "word": "Err",
+    "definition": "make a mistake"
+  },
+  {
+    "id": 1574,
+    "word": "Hinder",
+    "definition": "obstruct"
+  },
+  {
+    "id": 1575,
+    "word": "Largess",
+    "definition": "generosity"
+  },
+  {
+    "id": 1576,
+    "word": "Obsolete",
+    "definition": "no longer valid"
+  },
+  {
+    "id": 1577,
+    "word": "Pontificate",
+    "definition": "speak pompously or dogmatically"
+  },
+  {
+    "id": 1578,
+    "word": "Reticent",
+    "definition": "restrained; holding something back; uncommunicative"
+  },
+  {
+    "id": 1579,
+    "word": "Tirade",
+    "definition": "stream of verbal abuse"
+  },
+  {
+    "id": 1580,
+    "word": "Bristle",
+    "definition": "to show irritation"
+  },
+  {
+    "id": 1581,
+    "word": "Histrionic",
+    "definition": "theatrical; exaggerated"
+  },
+  {
+    "id": 1582,
+    "word": "Laud",
+    "definition": "praise"
+  },
+  {
+    "id": 1583,
+    "word": "Obstreperous",
+    "definition": "noisy and boisterous"
+  },
+  {
+    "id": 1584,
+    "word": "Portend",
+    "definition": "foretell"
+  },
+  {
+    "id": 1585,
+    "word": "Retraction",
+    "definition": "withdrawal; cancellation of a statement"
+  },
+  {
+    "id": 1586,
+    "word": "Titter",
+    "definition": "giggle quietly"
+  },
+  {
+    "id": 1587,
+    "word": "Hoary",
+    "definition": "old"
+  },
+  {
+    "id": 1588,
+    "word": "Lavish",
+    "definition": "on a grand scale; wasteful"
+  },
+  {
+    "id": 1589,
+    "word": "Obtuse",
+    "definition": "mentally dull"
+  },
+  {
+    "id": 1590,
+    "word": "Portent",
+    "definition": "a warning sign; omen"
+  },
+  {
+    "id": 1591,
+    "word": "Revere",
+    "definition": "worship"
+  },
+  {
+    "id": 1592,
+    "word": "Tome",
+    "definition": "large book"
+  },
+  {
+    "id": 1593,
+    "word": "Hone",
+    "definition": "sharpen; increase; whet"
+  },
+  {
+    "id": 1594,
+    "word": "Lax",
+    "definition": "careless; not strict"
+  },
+  {
+    "id": 1595,
+    "word": "Obviate",
+    "definition": "avoid; make unnecessary"
+  },
+  {
+    "id": 1596,
+    "word": "Poseur",
+    "definition": "someone who puts on an act"
+  },
+  {
+    "id": 1597,
+    "word": "Riddled",
+    "definition": "full of (usually full of holes)"
+  },
+  {
+    "id": 1598,
+    "word": "Torpid",
+    "definition": "inactive; lazy; stagnant"
+  },
+  {
+    "id": 1599,
+    "word": "Hyperbole",
+    "definition": "grossly exaggerated speech"
+  },
+  {
+    "id": 1600,
+    "word": "Legend",
+    "definition": "1. key to map; 2. myth or story"
+  },
+  {
+    "id": 1601,
+    "word": "Odious",
+    "definition": "hateful"
+  },
+  {
+    "id": 1602,
+    "word": "Posterity",
+    "definition": "future generations"
+  },
+  {
+    "id": 1603,
+    "word": "Rife",
+    "definition": "common"
+  },
+  {
+    "id": 1604,
+    "word": "Torpor",
+    "definition": "dormancy; sluggishness; inactivity"
+  },
+  {
+    "id": 1605,
+    "word": "Affable",
+    "definition": "friendly; social; easygoing"
+  },
+  {
+    "id": 1606,
+    "word": "Degradation",
+    "definition": "deprivation; poverty; debasement"
+  },
+  {
+    "id": 1607,
+    "word": "Hypochondriac",
+    "definition": "a person obsessed with health; having imaginary illnesses"
+  },
+  {
+    "id": 1608,
+    "word": "Legion",
+    "definition": "in large numbers"
+  },
+  {
+    "id": 1609,
+    "word": "Officious",
+    "definition": "domineering; intrusive; meddlesome"
+  },
+  {
+    "id": 1610,
+    "word": "Posthumous",
+    "definition": "after death"
+  },
+  {
+    "id": 1611,
+    "word": "Rigor",
+    "definition": "thoroughness"
+  },
+  {
+    "id": 1612,
+    "word": "Totter",
+    "definition": "walk unsteadily"
+  },
+  {
+    "id": 1613,
+    "word": "Hypocritical",
+    "definition": "insincere"
+  },
+  {
+    "id": 1614,
+    "word": "Lethargic",
+    "definition": "tired; without energy"
+  },
+  {
+    "id": 1615,
+    "word": "Ogle",
+    "definition": "stare at; observe in an obvious manner"
+  },
+  {
+    "id": 1616,
+    "word": "Postulate",
+    "definition": "hypothesize; propose"
+  },
+  {
+    "id": 1617,
+    "word": "Robust",
+    "definition": "strong; healthy; tough"
+  },
+  {
+    "id": 1618,
+    "word": "Tractable",
+    "definition": "obedient; dutiful; polite"
+  },
+  {
+    "id": 1619,
+    "word": "Alchemy",
+    "definition": "medieval chemistry; attempt to change base metal into gold"
+  },
+  {
+    "id": 1620,
+    "word": "Iconoclast",
+    "definition": "person who opposes orthodoxy"
+  },
+  {
+    "id": 1621,
+    "word": "Levity",
+    "definition": "flippancy; joking about serious matters"
+  },
+  {
+    "id": 1622,
+    "word": "Olfactory",
+    "definition": "concerned with the sense of smell"
+  },
+  {
+    "id": 1623,
+    "word": "Potable",
+    "definition": "suitable for drinking"
+  },
+  {
+    "id": 1624,
+    "word": "Rotund",
+    "definition": "round"
+  },
+  {
+    "id": 1625,
+    "word": "Tranquil",
+    "definition": "peaceful"
+  },
+  {
+    "id": 1626,
+    "word": "Alibi",
+    "definition": "an excuse that shows someone was not at a crime scene"
+  },
+  {
+    "id": 1627,
+    "word": "Delineation",
+    "definition": "demarcation; explanation; definition; outlining"
+  },
+  {
+    "id": 1628,
+    "word": "Evacuate",
+    "definition": "vacate; empty; abandon"
+  },
+  {
+    "id": 1629,
+    "word": "Idiosyncrasy",
+    "definition": "a personal peculiarity; something unique to an individual"
+  },
+  {
+    "id": 1630,
+    "word": "Libertarian",
+    "definition": "someone who opposes tyranny"
+  },
+  {
+    "id": 1631,
+    "word": "Ominous",
+    "definition": "threatening"
+  },
+  {
+    "id": 1632,
+    "word": "Potent",
+    "definition": "powerful; compelling; strong"
+  },
+  {
+    "id": 1633,
+    "word": "Ruminate",
+    "definition": "think over something; ponder"
+  },
+  {
+    "id": 1634,
+    "word": "Transcribe",
+    "definition": "copy"
+  },
+  {
+    "id": 1635,
+    "word": "Allay",
+    "definition": "to lessen"
+  },
+  {
+    "id": 1636,
+    "word": "Byline",
+    "definition": "the line that tells you who wrote an article"
+  },
+  {
+    "id": 1637,
+    "word": "Ignominious",
+    "definition": "shameful"
+  },
+  {
+    "id": 1638,
+    "word": "Liniment",
+    "definition": "soothing lotion"
+  },
+  {
+    "id": 1639,
+    "word": "Omnipotent",
+    "definition": "all-powerful"
+  },
+  {
+    "id": 1640,
+    "word": "Pragmatic",
+    "definition": "practical"
+  },
+  {
+    "id": 1641,
+    "word": "Ruse",
+    "definition": "trick; stratagem"
+  },
+  {
+    "id": 1642,
+    "word": "Transgress",
+    "definition": "go astray; disobey; commit a sin"
+  },
+  {
+    "id": 1643,
+    "word": "Alleviate",
+    "definition": "make less severe"
+  },
+  {
+    "id": 1644,
+    "word": "Exasperated",
+    "definition": "frustrated; annoyed"
+  },
+  {
+    "id": 1645,
+    "word": "Ignominy",
+    "definition": "shame [ignominious (a) = shameful]"
+  },
+  {
+    "id": 1646,
+    "word": "Lithe",
+    "definition": "flexible; supple"
+  },
+  {
+    "id": 1647,
+    "word": "Omniscient",
+    "definition": "all-knowing"
+  },
+  {
+    "id": 1648,
+    "word": "Pragmatist",
+    "definition": "practical person; one who is concerned with usefulness"
+  },
+  {
+    "id": 1649,
+    "word": "Saccharin",
+    "definition": "falsely sweet"
+  },
+  {
+    "id": 1650,
+    "word": "Aloof",
+    "definition": "distant; detached; cold"
+  },
+  {
+    "id": 1651,
+    "word": "Illuminate",
+    "definition": "to light up or make clear"
+  },
+  {
+    "id": 1652,
+    "word": "Livid",
+    "definition": "very angry"
+  },
+  {
+    "id": 1653,
+    "word": "Onerous",
+    "definition": "burdensome; hard to undertake"
+  },
+  {
+    "id": 1654,
+    "word": "Preamble",
+    "definition": "introductory material"
+  },
+  {
+    "id": 1655,
+    "word": "Sacrosanct",
+    "definition": "very holy; inviolable"
+  },
+  {
+    "id": 1656,
+    "word": "Traverse",
+    "definition": "to move across"
+  },
+  {
+    "id": 1657,
+    "word": "Altruism",
+    "definition": "putting others first; being self-sacrificing"
+  },
+  {
+    "id": 1658,
+    "word": "Illusory",
+    "definition": "deceptive; false; misleading"
+  },
+  {
+    "id": 1659,
+    "word": "Onus",
+    "definition": "burden"
+  },
+  {
+    "id": 1660,
+    "word": "Precarious",
+    "definition": "unstable; risky"
+  },
+  {
+    "id": 1661,
+    "word": "Sagacious",
+    "definition": "wise"
+  },
+  {
+    "id": 1662,
+    "word": "Trepidation",
+    "definition": "fear"
+  },
+  {
+    "id": 1663,
+    "word": "Amass",
+    "definition": "accumulate"
+  },
+  {
+    "id": 1664,
+    "word": "Immoderate",
+    "definition": "excessive; extreme"
+  },
+  {
+    "id": 1665,
+    "word": "Lofty",
+    "definition": "snooty; arrogant; haughty"
+  },
+  {
+    "id": 1666,
+    "word": "Opaque",
+    "definition": "does not let light through"
+  },
+  {
+    "id": 1667,
+    "word": "Precedent",
+    "definition": "a previous occurrence used as a guide"
+  },
+  {
+    "id": 1668,
+    "word": "Sage",
+    "definition": "a wise person"
+  },
+  {
+    "id": 1669,
+    "word": "Trinket",
+    "definition": "something of little value; knick-knack"
+  },
+  {
+    "id": 1670,
+    "word": "Ambiguity",
+    "definition": "uncertainty; vagueness"
+  },
+  {
+    "id": 1671,
+    "word": "Candid",
+    "definition": "frank; honest"
+  },
+  {
+    "id": 1672,
+    "word": "Immutable",
+    "definition": "unchanging; permanent"
+  },
+  {
+    "id": 1673,
+    "word": "Precept",
+    "definition": "guiding principle"
+  },
+  {
+    "id": 1674,
+    "word": "Salacious",
+    "definition": "lecherous; erotic"
+  },
+  {
+    "id": 1675,
+    "word": "Trite",
+    "definition": "unoriginal; dull"
+  },
+  {
+    "id": 1676,
+    "word": "Ambiguous",
+    "definition": "unclear in meaning; can be interpreted in different ways"
+  },
+  {
+    "id": 1677,
+    "word": "Impartial",
+    "definition": "unbiased; neutral"
+  },
+  {
+    "id": 1678,
+    "word": "Loquacious",
+    "definition": "talkative"
+  },
+  {
+    "id": 1679,
+    "word": "Ordain",
+    "definition": "1. destine; 2. confer holy orders on a priest"
+  },
+  {
+    "id": 1680,
+    "word": "Precinct",
+    "definition": "district of a city"
+  },
+  {
+    "id": 1681,
+    "word": "Sallow",
+    "definition": "yellowish"
+  },
+  {
+    "id": 1682,
+    "word": "Trivial",
+    "definition": "unimportant"
+  },
+  {
+    "id": 1683,
+    "word": "Ambivalence",
+    "definition": "lack of clarity; wavering; being undecided"
+  },
+  {
+    "id": 1684,
+    "word": "Impecunious",
+    "definition": "having no money"
+  },
+  {
+    "id": 1685,
+    "word": "Lucid",
+    "definition": "clear"
+  },
+  {
+    "id": 1686,
+    "word": "Ornate",
+    "definition": "highly decorated"
+  },
+  {
+    "id": 1687,
+    "word": "Precipice",
+    "definition": "steep slope"
+  },
+  {
+    "id": 1688,
+    "word": "Salubrious",
+    "definition": "health-giving"
+  },
+  {
+    "id": 1689,
+    "word": "Truant",
+    "definition": "shirker; someone absent without permission"
+  },
+  {
+    "id": 1690,
+    "word": "Ambulatory",
+    "definition": "able to walk around (used of hospital patients)"
+  },
+  {
+    "id": 1691,
+    "word": "Exhaustive",
+    "definition": "complete and thorough"
+  },
+  {
+    "id": 1692,
+    "word": "Impious",
+    "definition": "wicked; profane"
+  },
+  {
+    "id": 1693,
+    "word": "Ludicrous",
+    "definition": "ridiculous; silly"
+  },
+  {
+    "id": 1694,
+    "word": "Orthodox",
+    "definition": "conventional"
+  },
+  {
+    "id": 1695,
+    "word": "Precipitous",
+    "definition": "done in a hurry"
+  },
+  {
+    "id": 1696,
+    "word": "Salutary",
+    "definition": "something which teaches you a lesson; beneficial"
+  },
+  {
+    "id": 1697,
+    "word": "Truncate",
+    "definition": "cut short"
+  },
+  {
+    "id": 1698,
+    "word": "Desecration",
+    "definition": "spoiling something holy"
+  },
+  {
+    "id": 1699,
+    "word": "Exonerates",
+    "definition": "acquits; absolves; removes blame"
+  },
+  {
+    "id": 1700,
+    "word": "Impoverished",
+    "definition": "destitute; poor"
+  },
+  {
+    "id": 1701,
+    "word": "Lukewarm",
+    "definition": "1. unenthusiastic; 2. neither hot nor cold"
+  },
+  {
+    "id": 1702,
+    "word": "Ossify",
+    "definition": "1. turn to bone; 2. become fixed and rigid"
+  },
+  {
+    "id": 1703,
+    "word": "Preclude",
+    "definition": "prevent or make impossible"
+  },
+  {
+    "id": 1704,
+    "word": "Sanctimonious",
+    "definition": "hypocritically holy"
+  },
+  {
+    "id": 1705,
+    "word": "Tumult",
+    "definition": "uproar; noise"
+  },
+  {
+    "id": 1706,
+    "word": "Amelioration",
+    "definition": "improvement"
+  },
+  {
+    "id": 1707,
+    "word": "Desist",
+    "definition": "stop; discontinue; cease"
+  },
+  {
+    "id": 1708,
+    "word": "Exorcism",
+    "definition": "getting free/rid of; eliminating (especially demons)"
+  },
+  {
+    "id": 1709,
+    "word": "Impromptu",
+    "definition": "unrehearsed; spontaneous"
+  },
+  {
+    "id": 1710,
+    "word": "Lummox",
+    "definition": "clumsy person"
+  },
+  {
+    "id": 1711,
+    "word": "Sanction",
+    "definition": "give approval to"
+  },
+  {
+    "id": 1712,
+    "word": "Turpitude",
+    "definition": "depravity"
+  },
+  {
+    "id": 1713,
+    "word": "Inadvertent",
+    "definition": "not intentional"
+  },
+  {
+    "id": 1714,
+    "word": "Luscious",
+    "definition": "juicy; moist; succulent"
+  },
+  {
+    "id": 1715,
+    "word": "Oust",
+    "definition": "push out of a position"
+  },
+  {
+    "id": 1716,
+    "word": "Predecessor",
+    "definition": "one who came before"
+  },
+  {
+    "id": 1717,
+    "word": "Sanguinary",
+    "definition": "bloodthirsty; bloody"
+  },
+  {
+    "id": 1718,
+    "word": "Tyro",
+    "definition": "novice; beginner"
+  },
+  {
+    "id": 1719,
+    "word": "Destitution",
+    "definition": "hardship; poverty; misery"
+  },
+  {
+    "id": 1720,
+    "word": "Incantation",
+    "definition": "chant; invocation; prayer"
+  },
+  {
+    "id": 1721,
+    "word": "Lynch",
+    "definition": "assassinate; kill; illegal hanging"
+  },
+  {
+    "id": 1722,
+    "word": "Overt",
+    "definition": "obvious; not hidden"
+  },
+  {
+    "id": 1723,
+    "word": "Predicament",
+    "definition": "dilemma; difficult situation"
+  },
+  {
+    "id": 1724,
+    "word": "Sanguine",
+    "definition": "optimistic; cheerful"
+  },
+  {
+    "id": 1725,
+    "word": "Ubiquitous",
+    "definition": "found everywhere; omnipresent"
+  },
+  {
+    "id": 1726,
+    "word": "Deter",
+    "definition": "put off; prevent"
+  },
+  {
+    "id": 1727,
+    "word": "Incarceration",
+    "definition": "putting in prison"
+  },
+  {
+    "id": 1728,
+    "word": "Machinations",
+    "definition": "plots and plans"
+  },
+  {
+    "id": 1729,
+    "word": "Overwrought",
+    "definition": "worked up; in an emotional state"
+  },
+  {
+    "id": 1730,
+    "word": "Preeminent",
+    "definition": "famous; outstanding"
+  },
+  {
+    "id": 1731,
+    "word": "Sardonic",
+    "definition": "mocking"
+  },
+  {
+    "id": 1732,
+    "word": "Unalloyed",
+    "definition": "undiluted; total"
+  },
+  {
+    "id": 1733,
+    "word": "Deteriorate",
+    "definition": "worsen; decline"
+  },
+  {
+    "id": 1734,
+    "word": "Incessant",
+    "definition": "without stopping"
+  },
+  {
+    "id": 1735,
+    "word": "Maelstrom",
+    "definition": "whirlpool; storm in the ocean"
+  },
+  {
+    "id": 1736,
+    "word": "Palatable",
+    "definition": "good to eat; agreeable"
+  },
+  {
+    "id": 1737,
+    "word": "Prerogative",
+    "definition": "right or privilege"
+  },
+  {
+    "id": 1738,
+    "word": "Savant",
+    "definition": "person with knowledge"
+  },
+  {
+    "id": 1739,
+    "word": "Unctuous",
+    "definition": "oily; using excessive flattery"
+  },
+  {
+    "id": 1740,
+    "word": "Incipient",
+    "definition": "just beginning"
+  },
+  {
+    "id": 1741,
+    "word": "Magnanimous",
+    "definition": "generous; big- hearted"
+  },
+  {
+    "id": 1742,
+    "word": "Palisade",
+    "definition": "fence made of posts"
+  },
+  {
+    "id": 1743,
+    "word": "Prescient",
+    "definition": "having fore- knowledge"
+  },
+  {
+    "id": 1744,
+    "word": "Scale",
+    "definition": "to climb"
+  },
+  {
+    "id": 1745,
+    "word": "Undermined",
+    "definition": "damaged; attacked"
+  },
+  {
+    "id": 1746,
+    "word": "Devoured",
+    "definition": "greedily eaten/consumed"
+  },
+  {
+    "id": 1747,
+    "word": "Extradite",
+    "definition": "deport from one country back to the home country"
+  },
+  {
+    "id": 1748,
+    "word": "Inclination",
+    "definition": "tendency; a leaning toward"
+  },
+  {
+    "id": 1749,
+    "word": "Magnate",
+    "definition": "powerful businessman"
+  },
+  {
+    "id": 1750,
+    "word": "Palliative",
+    "definition": "a remedy that improves but doesn't cure"
+  },
+  {
+    "id": 1751,
+    "word": "Presentiment",
+    "definition": "a feeling that something might happen"
+  },
+  {
+    "id": 1752,
+    "word": "Scapegoat",
+    "definition": "person on whom blame is placed for faults of others"
+  },
+  {
+    "id": 1753,
+    "word": "Underscore",
+    "definition": "emphasize"
+  },
+  {
+    "id": 1754,
+    "word": "Incoherent",
+    "definition": "not clear"
+  },
+  {
+    "id": 1755,
+    "word": "Maladroit",
+    "definition": "clumsy; unskillful"
+  },
+  {
+    "id": 1756,
+    "word": "Pallid",
+    "definition": "pale"
+  },
+  {
+    "id": 1757,
+    "word": "Presumptuous",
+    "definition": "assuming too much; arrogant"
+  },
+  {
+    "id": 1758,
+    "word": "Scrupulous",
+    "definition": "careful; diligent; painstaking"
+  },
+  {
+    "id": 1759,
+    "word": "Unequivocal",
+    "definition": "clear; obvious"
+  },
+  {
+    "id": 1760,
+    "word": "Extrapolate",
+    "definition": "extend; predict on the basis of known data"
+  },
+  {
+    "id": 1761,
+    "word": "Incongruous",
+    "definition": "not fitting in; out of place"
+  },
+  {
+    "id": 1762,
+    "word": "Malady",
+    "definition": "illness"
+  },
+  {
+    "id": 1763,
+    "word": "Palpable",
+    "definition": "easily felt; easily perceived"
+  },
+  {
+    "id": 1764,
+    "word": "Unfetter",
+    "definition": "set free"
+  },
+  {
+    "id": 1765,
+    "word": "Annex (n)",
+    "definition": "a building which is an addition to an existing building"
+  },
+  {
+    "id": 1766,
+    "word": "Malediction",
+    "definition": "a curse"
+  },
+  {
+    "id": 1767,
+    "word": "Panacea",
+    "definition": "remedy for all ills"
+  },
+  {
+    "id": 1768,
+    "word": "Prevaricate",
+    "definition": "speak misleadingly and evasively"
+  },
+  {
+    "id": 1769,
+    "word": "Scuttle",
+    "definition": "sink"
+  },
+  {
+    "id": 1770,
+    "word": "Unfrock",
+    "definition": "to remove a priest from his position"
+  },
+  {
+    "id": 1771,
+    "word": "Annex (v)",
+    "definition": "take possession of; seize; capture"
+  },
+  {
+    "id": 1772,
+    "word": "Diffident",
+    "definition": "lacking confidence"
+  },
+  {
+    "id": 1773,
+    "word": "Inconspicuous",
+    "definition": "not easily seen; subtle; not noticeable"
+  },
+  {
+    "id": 1774,
+    "word": "Malefactor",
+    "definition": "a wrong-doer"
+  },
+  {
+    "id": 1775,
+    "word": "Paradigm",
+    "definition": "1. example; 2. model;"
+  },
+  {
+    "id": 1776,
+    "word": "Pristine",
+    "definition": "unspoiled"
+  },
+  {
+    "id": 1777,
+    "word": "Seminary",
+    "definition": "an institution in which priests are trained"
+  },
+  {
+    "id": 1778,
+    "word": "Unprecedented",
+    "definition": "never having happened before"
+  },
+  {
+    "id": 1779,
+    "word": "Certitude",
+    "definition": "certainty"
+  },
+  {
+    "id": 1780,
+    "word": "Digress",
+    "definition": "wander off the subject"
+  },
+  {
+    "id": 1781,
+    "word": "Indelible",
+    "definition": "cannot be wiped out"
+  },
+  {
+    "id": 1782,
+    "word": "Malinger",
+    "definition": "deliberately avoid work; shirk"
+  },
+  {
+    "id": 1783,
+    "word": "Paradox",
+    "definition": "apparently contradictory statement"
+  },
+  {
+    "id": 1784,
+    "word": "Proclivity",
+    "definition": "tendency towards"
+  },
+  {
+    "id": 1785,
+    "word": "Sensuous",
+    "definition": "appealing to the senses"
+  },
+  {
+    "id": 1786,
+    "word": "Unscathed",
+    "definition": "unharmed; intact; without a scratch"
+  },
+  {
+    "id": 1787,
+    "word": "Antagonism",
+    "definition": "hostility; strong opposition"
+  },
+  {
+    "id": 1788,
+    "word": "Dike",
+    "definition": "dam; embankment"
+  },
+  {
+    "id": 1789,
+    "word": "Fanatical",
+    "definition": "obsessive; fixated"
+  },
+  {
+    "id": 1790,
+    "word": "Indifferent",
+    "definition": "1. neutral; 2. not outstanding"
+  },
+  {
+    "id": 1791,
+    "word": "Malingerer",
+    "definition": "person who deliberately tries to avoid work"
+  },
+  {
+    "id": 1792,
+    "word": "Paragon",
+    "definition": "a perfect example"
+  },
+  {
+    "id": 1793,
+    "word": "Sentinel",
+    "definition": "guard; sentry"
+  },
+  {
+    "id": 1794,
+    "word": "Unwitting",
+    "definition": "not deliberate; unconscious"
+  },
+  {
+    "id": 1795,
+    "word": "Antagonistic",
+    "definition": "opposed; hostile; aggressive"
+  },
+  {
+    "id": 1796,
+    "word": "Indigenous",
+    "definition": "native to a particular area"
+  },
+  {
+    "id": 1797,
+    "word": "Malleable",
+    "definition": "flexible; can be shaped"
+  },
+  {
+    "id": 1798,
+    "word": "Paramount",
+    "definition": "of supreme importance"
+  },
+  {
+    "id": 1799,
+    "word": "Prodigal",
+    "definition": "wasteful; extravagant"
+  },
+  {
+    "id": 1800,
+    "word": "Sequester",
+    "definition": "isolate"
+  },
+  {
+    "id": 1801,
+    "word": "Upbraid",
+    "definition": "scold; tell off; reprimand"
+  },
+  {
+    "id": 1802,
+    "word": "Chastises",
+    "definition": "punishes"
+  },
+  {
+    "id": 1803,
+    "word": "Indolence",
+    "definition": "laziness"
+  },
+  {
+    "id": 1804,
+    "word": "Mallet",
+    "definition": "1. wooden hammer; 2. stick used for polo"
+  },
+  {
+    "id": 1805,
+    "word": "Parasite",
+    "definition": "1. scrounger; 2. animal which takes digested food from another"
+  },
+  {
+    "id": 1806,
+    "word": "Prodigious",
+    "definition": "very large"
+  },
+  {
+    "id": 1807,
+    "word": "Serendipity",
+    "definition": "fortunate coincidence; unsought discovery"
+  },
+  {
+    "id": 1808,
+    "word": "Uproarious",
+    "definition": "hilarious; hysterical; very funny"
+  },
+  {
+    "id": 1809,
+    "word": "Inductee",
+    "definition": "novice; beginner"
+  },
+  {
+    "id": 1810,
+    "word": "Manipulatable",
+    "definition": "influencable; controllable"
+  },
+  {
+    "id": 1811,
+    "word": "Profane",
+    "definition": "unholy"
+  },
+  {
+    "id": 1812,
+    "word": "Serene",
+    "definition": "calm; peaceful"
+  },
+  {
+    "id": 1813,
+    "word": "Upshot",
+    "definition": "outcome"
+  },
+  {
+    "id": 1814,
+    "word": "Anthropocentrism",
+    "definition": "putting man at the center of one's philosophy"
+  },
+  {
+    "id": 1815,
+    "word": "Indulgent",
+    "definition": "pampering; satisfying desires"
+  },
+  {
+    "id": 1816,
+    "word": "Marred",
+    "definition": "damaged; spoiled"
+  },
+  {
+    "id": 1817,
+    "word": "Pariah",
+    "definition": "an outcast from society"
+  },
+  {
+    "id": 1818,
+    "word": "Profanity",
+    "definition": "swearing; cursing"
+  },
+  {
+    "id": 1819,
+    "word": "Serrated",
+    "definition": "jagged; saw-like"
+  },
+  {
+    "id": 1820,
+    "word": "Urbane",
+    "definition": "sophisticated; suave"
+  },
+  {
+    "id": 1821,
+    "word": "Fecund",
+    "definition": "fertile"
+  },
+  {
+    "id": 1822,
+    "word": "Inebriation",
+    "definition": "drunkenness; intoxication"
+  },
+  {
+    "id": 1823,
+    "word": "Marshal",
+    "definition": "to gather together"
+  },
+  {
+    "id": 1824,
+    "word": "Parity",
+    "definition": "equality"
+  },
+  {
+    "id": 1825,
+    "word": "Profound",
+    "definition": "having deep meaning"
+  },
+  {
+    "id": 1826,
+    "word": "Servile",
+    "definition": "overly submissive; groveling"
+  },
+  {
+    "id": 1827,
+    "word": "Usurp",
+    "definition": "take someone's position (usually by force)"
+  },
+  {
+    "id": 1828,
+    "word": "Apathetic",
+    "definition": "indifferent; uninterested; lethargic"
+  },
+  {
+    "id": 1829,
+    "word": "Chronicler",
+    "definition": "person who records historical information"
+  },
+  {
+    "id": 1830,
+    "word": "Ineffable",
+    "definition": "cannot be expressed in words"
+  },
+  {
+    "id": 1831,
+    "word": "Marsupial",
+    "definition": "pouched mammal (like a kangaroo)"
+  },
+  {
+    "id": 1832,
+    "word": "Parochial",
+    "definition": "narrow-minded; concerned only with local matters"
+  },
+  {
+    "id": 1833,
+    "word": "Profundity",
+    "definition": "depth"
+  },
+  {
+    "id": 1834,
+    "word": "Skeptical",
+    "definition": "doubting; not gullible"
+  },
+  {
+    "id": 1835,
+    "word": "Utilitarian",
+    "definition": "useful"
+  },
+  {
+    "id": 1836,
+    "word": "Inept",
+    "definition": "incompetent; unskilled; useless"
+  },
+  {
+    "id": 1837,
+    "word": "Martinet",
+    "definition": "person who believes in strict discipline"
+  },
+  {
+    "id": 1838,
+    "word": "Parody",
+    "definition": "a mockery; imitation for ridicule; spoof"
+  },
+  {
+    "id": 1839,
+    "word": "Proletarian",
+    "definition": "member of the working class"
+  },
+  {
+    "id": 1840,
+    "word": "Skirmish",
+    "definition": "minor battle"
+  },
+  {
+    "id": 1841,
+    "word": "Utopian",
+    "definition": "a believer in an ideal world"
+  },
+  {
+    "id": 1842,
+    "word": "Discern",
+    "definition": "to distinguish one thing from another"
+  },
+  {
+    "id": 1843,
+    "word": "Inertia",
+    "definition": "inactivity; lethargy"
+  },
+  {
+    "id": 1844,
+    "word": "Masochist",
+    "definition": "person who intentionally inflicts pain on himself"
+  },
+  {
+    "id": 1845,
+    "word": "Parry",
+    "definition": "ward off; avoid"
+  },
+  {
+    "id": 1846,
+    "word": "Prolific",
+    "definition": "producing a lot"
+  },
+  {
+    "id": 1847,
+    "word": "Sluggard",
+    "definition": "slow-moving; lethargic person"
+  },
+  {
+    "id": 1848,
+    "word": "Vacillate",
+    "definition": "waver; hesitate"
+  },
+  {
+    "id": 1849,
+    "word": "Matriarchy",
+    "definition": "society governed by women"
+  },
+  {
+    "id": 1850,
+    "word": "Parsimonious",
+    "definition": "economical; frugal; thrifty"
+  },
+  {
+    "id": 1851,
+    "word": "Proponents",
+    "definition": "promoters; supporters"
+  },
+  {
+    "id": 1852,
+    "word": "Smelt",
+    "definition": "refine an ore"
+  },
+  {
+    "id": 1853,
+    "word": "Vacuous",
+    "definition": "empty; silly; meaningless"
+  },
+  {
+    "id": 1854,
+    "word": "Discordancy",
+    "definition": "cacophony; harshness; jarring"
+  },
+  {
+    "id": 1855,
+    "word": "Inexorable",
+    "definition": "relentless"
+  },
+  {
+    "id": 1856,
+    "word": "Maverick",
+    "definition": "a loner"
+  },
+  {
+    "id": 1857,
+    "word": "Parsimony",
+    "definition": "stinginess; frugality; cost-cutting"
+  },
+  {
+    "id": 1858,
+    "word": "Smorgasbord",
+    "definition": "a Swedish buffet of cold dishes"
+  },
+  {
+    "id": 1859,
+    "word": "Vagrant",
+    "definition": "person wandering without a home"
+  },
+  {
+    "id": 1860,
+    "word": "Inexpedient",
+    "definition": "not advisable"
+  },
+  {
+    "id": 1861,
+    "word": "Meager",
+    "definition": "in short supply"
+  },
+  {
+    "id": 1862,
+    "word": "Partisan",
+    "definition": "biased; one-sided; committed to one group"
+  },
+  {
+    "id": 1863,
+    "word": "Proscribe",
+    "definition": "forbid"
+  },
+  {
+    "id": 1864,
+    "word": "Solace",
+    "definition": "comfort for grief"
+  },
+  {
+    "id": 1865,
+    "word": "Vapid",
+    "definition": "dull; uninspiring"
+  },
+  {
+    "id": 1866,
+    "word": "Discriminate",
+    "definition": "to make a clear distinction; see the difference"
+  },
+  {
+    "id": 1867,
+    "word": "Infallible",
+    "definition": "perfect; flawless; cannot make mistakes"
+  },
+  {
+    "id": 1868,
+    "word": "Meander",
+    "definition": "wander from side to side"
+  },
+  {
+    "id": 1869,
+    "word": "Pathos",
+    "definition": "evoking sadness or pity"
+  },
+  {
+    "id": 1870,
+    "word": "Prosody",
+    "definition": "study of versification"
+  },
+  {
+    "id": 1871,
+    "word": "Solicit",
+    "definition": "to ask for; seek"
+  },
+  {
+    "id": 1872,
+    "word": "Variegated",
+    "definition": "multicolored; speckled"
+  },
+  {
+    "id": 1873,
+    "word": "Discursiveness",
+    "definition": "long windedness; indirectness"
+  },
+  {
+    "id": 1874,
+    "word": "Infamous",
+    "definition": "famous for something bad"
+  },
+  {
+    "id": 1875,
+    "word": "Mellow",
+    "definition": "soft; melodious; ripe"
+  },
+  {
+    "id": 1876,
+    "word": "Patron",
+    "definition": "one who give support (usually financial)"
+  },
+  {
+    "id": 1877,
+    "word": "Prostration",
+    "definition": "1. lying face down;"
+  },
+  {
+    "id": 1878,
+    "word": "Somnambulist",
+    "definition": "sleepwalker"
+  },
+  {
+    "id": 1879,
+    "word": "Vehemence",
+    "definition": "violence; fervor; forcefulness"
+  },
+  {
+    "id": 1880,
+    "word": "Infer",
+    "definition": "deduce; conclude"
+  },
+  {
+    "id": 1881,
+    "word": "Menagerie",
+    "definition": "collection of animals"
+  },
+  {
+    "id": 1882,
+    "word": "Patronize",
+    "definition": "condescend to; behave in an arrogant manner towards"
+  },
+  {
+    "id": 1883,
+    "word": "Protagonist",
+    "definition": "main character in film, book, play etc."
+  },
+  {
+    "id": 1884,
+    "word": "Soothsayer",
+    "definition": "fortuneteller"
+  },
+  {
+    "id": 1885,
+    "word": "Vehement",
+    "definition": "forceful"
+  },
+  {
+    "id": 1886,
+    "word": "Ingénue",
+    "definition": "naïve, unsophisticated person"
+  },
+  {
+    "id": 1887,
+    "word": "Mendacious",
+    "definition": "given to lying"
+  },
+  {
+    "id": 1888,
+    "word": "Paucity",
+    "definition": "shortage"
+  },
+  {
+    "id": 1889,
+    "word": "Protean",
+    "definition": "changeable"
+  },
+  {
+    "id": 1890,
+    "word": "Sophomoric",
+    "definition": "juvenile; immature"
+  },
+  {
+    "id": 1891,
+    "word": "Venal",
+    "definition": "corrupt; can be bribed"
+  },
+  {
+    "id": 1892,
+    "word": "Flustered",
+    "definition": "worked-up; not calm"
+  },
+  {
+    "id": 1893,
+    "word": "Ingrate",
+    "definition": "ungrateful person"
+  },
+  {
+    "id": 1894,
+    "word": "Mercenary",
+    "definition": "concerned only with money"
+  },
+  {
+    "id": 1895,
+    "word": "Peccadillo",
+    "definition": "minor weakness; trivial offence"
+  },
+  {
+    "id": 1896,
+    "word": "Protégé",
+    "definition": "person under protection of, or guided by another"
+  },
+  {
+    "id": 1897,
+    "word": "Soporific",
+    "definition": "inducing sleep"
+  },
+  {
+    "id": 1898,
+    "word": "Veneer",
+    "definition": "surface coating"
+  },
+  {
+    "id": 1899,
+    "word": "Fly-by-night",
+    "definition": "unreliable; disreputable"
+  },
+  {
+    "id": 1900,
+    "word": "Inimical",
+    "definition": "hostile"
+  },
+  {
+    "id": 1901,
+    "word": "Mercurial",
+    "definition": "volatile; changeable"
+  },
+  {
+    "id": 1902,
+    "word": "Pedant",
+    "definition": "person who insists on strict adherence to rules or narrow learning"
+  },
+  {
+    "id": 1903,
+    "word": "Protocol",
+    "definition": "procedure; code of behavior"
+  },
+  {
+    "id": 1904,
+    "word": "Sparse",
+    "definition": "spare; bare; meager"
+  },
+  {
+    "id": 1905,
+    "word": "Venerate",
+    "definition": "revere; worship"
+  },
+  {
+    "id": 1906,
+    "word": "Innate",
+    "definition": "inherited; inborn"
+  },
+  {
+    "id": 1907,
+    "word": "Merge",
+    "definition": "come together"
+  },
+  {
+    "id": 1908,
+    "word": "Pedestrian",
+    "definition": "common; mundane; banal"
+  },
+  {
+    "id": 1909,
+    "word": "Provincial",
+    "definition": "unsophisticated; narrow-minded"
+  },
+  {
+    "id": 1910,
+    "word": "Specious",
+    "definition": "false"
+  },
+  {
+    "id": 1911,
+    "word": "Venial",
+    "definition": "minor; unimportant"
+  },
+  {
+    "id": 1912,
+    "word": "Disseminating",
+    "definition": "circulating; broadcasting; spreading (information)"
+  },
+  {
+    "id": 1913,
+    "word": "Innocuous",
+    "definition": "harmless; inoffensive"
+  },
+  {
+    "id": 1914,
+    "word": "Metaphorically",
+    "definition": "symbolically; figuratively"
+  },
+  {
+    "id": 1915,
+    "word": "Peerless",
+    "definition": "without equal"
+  },
+  {
+    "id": 1916,
+    "word": "Speckled",
+    "definition": "spotted; freckled; dotted"
+  },
+  {
+    "id": 1917,
+    "word": "Veracity",
+    "definition": "truthfulness"
+  },
+  {
+    "id": 1918,
+    "word": "Innovate",
+    "definition": "create; introduce something new"
+  },
+  {
+    "id": 1919,
+    "word": "Meticulous",
+    "definition": "very careful; painstaking"
+  },
+  {
+    "id": 1920,
+    "word": "Pejorative",
+    "definition": "derogatory"
+  },
+  {
+    "id": 1921,
+    "word": "Puerile",
+    "definition": "childish"
+  },
+  {
+    "id": 1922,
+    "word": "Sporadic",
+    "definition": "not continuous; intermittent"
+  },
+  {
+    "id": 1923,
+    "word": "Verbose",
+    "definition": "talkative; long-winded; rambling"
+  },
+  {
+    "id": 1924,
+    "word": "Divert",
+    "definition": "1. entertain; 2. distract; 3. cause a detour"
+  },
+  {
+    "id": 1925,
+    "word": "Inscrutable",
+    "definition": "mysterious; impenetrable"
+  },
+  {
+    "id": 1926,
+    "word": "Mettle",
+    "definition": "courage; bravery; valor"
+  },
+  {
+    "id": 1927,
+    "word": "Pellucid",
+    "definition": "transparently clear"
+  },
+  {
+    "id": 1928,
+    "word": "Punctilious",
+    "definition": "paying attention to small details"
+  },
+  {
+    "id": 1929,
+    "word": "Verbosity",
+    "definition": "using too many words"
+  },
+  {
+    "id": 1930,
+    "word": "Insentient",
+    "definition": "unfeeling"
+  },
+  {
+    "id": 1931,
+    "word": "Milieu",
+    "definition": "environment"
+  },
+  {
+    "id": 1932,
+    "word": "Pensive",
+    "definition": "in a thoughtful mood; thinking deeply"
+  },
+  {
+    "id": 1933,
+    "word": "Purloin",
+    "definition": "steal"
+  },
+  {
+    "id": 1934,
+    "word": "Stagnant",
+    "definition": "still; not moving"
+  },
+  {
+    "id": 1935,
+    "word": "Vertigo",
+    "definition": "dizziness"
+  },
+  {
+    "id": 1936,
+    "word": "Insipid",
+    "definition": "dull; bland; boring"
+  },
+  {
+    "id": 1937,
+    "word": "Mire",
+    "definition": "swamp; muddy ground"
+  },
+  {
+    "id": 1938,
+    "word": "Penury",
+    "definition": "poverty"
+  },
+  {
+    "id": 1939,
+    "word": "Pusillanimous",
+    "definition": "cowardly"
+  },
+  {
+    "id": 1940,
+    "word": "Staid",
+    "definition": "dull; sober; serious"
+  },
+  {
+    "id": 1941,
+    "word": "Vestigial",
+    "definition": "not developed"
+  },
+  {
+    "id": 1942,
+    "word": "Instigate",
+    "definition": "to start; provoke"
+  },
+  {
+    "id": 1943,
+    "word": "Misanthrope",
+    "definition": "hater of the rest of mankind"
+  },
+  {
+    "id": 1944,
+    "word": "Perceptive",
+    "definition": "observant"
+  },
+  {
+    "id": 1945,
+    "word": "Pyromania",
+    "definition": "compulsion to start fires"
+  },
+  {
+    "id": 1946,
+    "word": "Stanza",
+    "definition": "section of a poem"
+  },
+  {
+    "id": 1947,
+    "word": "Vignette",
+    "definition": "small sketch"
+  },
+  {
+    "id": 1948,
+    "word": "Atheist",
+    "definition": "person who does not believe in God"
+  },
+  {
+    "id": 1949,
+    "word": "Dotard",
+    "definition": "foolish old man"
+  },
+  {
+    "id": 1950,
+    "word": "Furrow",
+    "definition": "groove"
+  },
+  {
+    "id": 1951,
+    "word": "Instigator",
+    "definition": "troublemaker; person who entices others to do something"
+  },
+  {
+    "id": 1952,
+    "word": "Misnomer",
+    "definition": "wrong name"
+  },
+  {
+    "id": 1953,
+    "word": "Percipient",
+    "definition": "perceptive; insightful"
+  },
+  {
+    "id": 1954,
+    "word": "Quaff",
+    "definition": "drink down quickly"
+  },
+  {
+    "id": 1955,
+    "word": "Staunch",
+    "definition": "loyal; faithful; dependable"
+  },
+  {
+    "id": 1956,
+    "word": "Vilification",
+    "definition": "blackening someone's name"
+  },
+  {
+    "id": 1957,
+    "word": "Drawl",
+    "definition": "speak slowly with words running together"
+  },
+  {
+    "id": 1958,
+    "word": "Furtive",
+    "definition": "hidden and secret"
+  },
+  {
+    "id": 1959,
+    "word": "Insurgent",
+    "definition": "a rebel"
+  },
+  {
+    "id": 1960,
+    "word": "Misogynist",
+    "definition": "hater of women"
+  },
+  {
+    "id": 1961,
+    "word": "Perdition",
+    "definition": "damnation"
+  },
+  {
+    "id": 1962,
+    "word": "Quagmire",
+    "definition": "marsh; bog"
+  },
+  {
+    "id": 1963,
+    "word": "Stereotype",
+    "definition": "fixed image"
+  },
+  {
+    "id": 1964,
+    "word": "Futile",
+    "definition": "useless; hopeless"
+  },
+  {
+    "id": 1965,
+    "word": "Interminable",
+    "definition": "never-ending"
+  },
+  {
+    "id": 1966,
+    "word": "Misrepresentation",
+    "definition": "deliberately deceiving"
+  },
+  {
+    "id": 1967,
+    "word": "Peremptory",
+    "definition": "in a commanding manner"
+  },
+  {
+    "id": 1968,
+    "word": "Quaint",
+    "definition": "picturesque"
+  },
+  {
+    "id": 1969,
+    "word": "Stevedore",
+    "definition": "dockworker"
+  },
+  {
+    "id": 1970,
+    "word": "Virtuoso",
+    "definition": "an accomplished musician"
+  },
+  {
+    "id": 1971,
+    "word": "Galleon",
+    "definition": "ancient type of sailing ship"
+  },
+  {
+    "id": 1972,
+    "word": "Intermittent",
+    "definition": "sporadic; irregular"
+  },
+  {
+    "id": 1973,
+    "word": "Mitigate",
+    "definition": "lessen; make less severe"
+  },
+  {
+    "id": 1974,
+    "word": "Perfidy",
+    "definition": "treachery"
+  },
+  {
+    "id": 1975,
+    "word": "Quandary",
+    "definition": "dilemma; puzzle"
+  },
+  {
+    "id": 1976,
+    "word": "Stifle",
+    "definition": "suppress"
+  },
+  {
+    "id": 1977,
+    "word": "Virulent",
+    "definition": "dangerous; harmful"
+  },
+  {
+    "id": 1978,
+    "word": "Gambol",
+    "definition": "frolic; leap; bound"
+  },
+  {
+    "id": 1979,
+    "word": "Intransigence",
+    "definition": "stubbornness"
+  },
+  {
+    "id": 1980,
+    "word": "Modicum",
+    "definition": "small amount"
+  },
+  {
+    "id": 1981,
+    "word": "Perfunctory",
+    "definition": "superficial; cursory"
+  },
+  {
+    "id": 1982,
+    "word": "Quarantine",
+    "definition": "isolation to prevent the spread of disease"
+  },
+  {
+    "id": 1983,
+    "word": "Stoic",
+    "definition": "known for fortitude; indifferent to pleasure or pain"
+  },
+  {
+    "id": 1984,
+    "word": "Vital",
+    "definition": "essential; alive; important"
+  },
+  {
+    "id": 1985,
+    "word": "Garble",
+    "definition": "distort; confuse; muddle"
+  },
+  {
+    "id": 1986,
+    "word": "Intransigent",
+    "definition": "stubborn; unyielding"
+  },
+  {
+    "id": 1987,
+    "word": "Momentous",
+    "definition": "very important"
+  },
+  {
+    "id": 1988,
+    "word": "Peripatetic",
+    "definition": "nomadic; moving from place to place"
+  },
+  {
+    "id": 1989,
+    "word": "Quarry",
+    "definition": "1. something that is hunted; 2. mine for stone"
+  },
+  {
+    "id": 1990,
+    "word": "Stoke",
+    "definition": "add fuel to; strengthen"
+  },
+  {
+    "id": 1991,
+    "word": "Vitriolic",
+    "definition": "corrosive; strongly attacking"
+  },
+  {
+    "id": 1992,
+    "word": "Concatenation",
+    "definition": "linking into chains"
+  },
+  {
+    "id": 1993,
+    "word": "Garish",
+    "definition": "gaudy"
+  },
+  {
+    "id": 1994,
+    "word": "Monotonous",
+    "definition": "dull; unvarying"
+  },
+  {
+    "id": 1995,
+    "word": "Peripheral",
+    "definition": "on the edge; not important"
+  },
+  {
+    "id": 1996,
+    "word": "Stolid",
+    "definition": "impassive; dull; indifferent"
+  },
+  {
+    "id": 1997,
+    "word": "Vivacity",
+    "definition": "liveliness; animation"
+  },
+  {
+    "id": 1998,
+    "word": "Conciliate",
+    "definition": "to bring together; end a dispute"
+  },
+  {
+    "id": 1999,
+    "word": "Garner",
+    "definition": "gather; collect"
+  },
+  {
+    "id": 2000,
+    "word": "Inveterate",
+    "definition": "habitual"
+  },
+  {
+    "id": 2001,
+    "word": "Moratorium",
+    "definition": "temporary prohibition or halt to activity"
+  },
+  {
+    "id": 2002,
+    "word": "Perjury",
+    "definition": "telling lies under oath"
+  },
+  {
+    "id": 2003,
+    "word": "Quirk",
+    "definition": "oddity"
+  },
+  {
+    "id": 2004,
+    "word": "Stratagem",
+    "definition": "plot; plan; trick"
+  },
+  {
+    "id": 2005,
+    "word": "Vivify",
+    "definition": "enliven"
+  },
+  {
+    "id": 2006,
+    "word": "Garrulous",
+    "definition": "talkative"
+  },
+  {
+    "id": 2007,
+    "word": "Invidious",
+    "definition": "arousing envy"
+  },
+  {
+    "id": 2008,
+    "word": "Moribund",
+    "definition": "on the point of death"
+  },
+  {
+    "id": 2009,
+    "word": "Pernicious",
+    "definition": "destructive; harmful"
+  },
+  {
+    "id": 2010,
+    "word": "Ramble",
+    "definition": "wander aimlessly"
+  },
+  {
+    "id": 2011,
+    "word": "Strident",
+    "definition": "loud and harsh"
+  },
+  {
+    "id": 2012,
+    "word": "Vociferous",
+    "definition": "noisy; loud in speech"
+  },
+  {
+    "id": 2013,
+    "word": "Banality",
+    "definition": "ordinariness; dullness"
+  },
+  {
+    "id": 2014,
+    "word": "Gaunt",
+    "definition": "emaciated; bony and angular"
+  },
+  {
+    "id": 2015,
+    "word": "Inviolable",
+    "definition": "cannot be invaded"
+  },
+  {
+    "id": 2016,
+    "word": "Morose",
+    "definition": "gloomy; bad tempered"
+  },
+  {
+    "id": 2017,
+    "word": "Persnickety",
+    "definition": "fastidious; fussy"
+  },
+  {
+    "id": 2018,
+    "word": "Ramifications",
+    "definition": "branches; subdivisions of a complex system; outcomes"
+  },
+  {
+    "id": 2019,
+    "word": "Stringent",
+    "definition": "strict or severe"
+  },
+  {
+    "id": 2020,
+    "word": "Volatile",
+    "definition": "dangerously unstable; evaporates easily"
+  },
+  {
+    "id": 2021,
+    "word": "Genre",
+    "definition": "a category; type"
+  },
+  {
+    "id": 2022,
+    "word": "Irascible",
+    "definition": "easily angered"
+  },
+  {
+    "id": 2023,
+    "word": "Perpetuated",
+    "definition": "caused to continue"
+  },
+  {
+    "id": 2024,
+    "word": "Rancor",
+    "definition": "resentment; animosity; bad feeling"
+  },
+  {
+    "id": 2025,
+    "word": "Strut",
+    "definition": "swagger; show off"
+  },
+  {
+    "id": 2026,
+    "word": "Voluble",
+    "definition": "talkative"
+  },
+  {
+    "id": 2027,
+    "word": "Condoning",
+    "definition": "overlooking; disregarding; ignoring"
+  },
+  {
+    "id": 2028,
+    "word": "Edifice",
+    "definition": "building; structure; construction"
+  },
+  {
+    "id": 2029,
+    "word": "Germane",
+    "definition": "relevant"
+  },
+  {
+    "id": 2030,
+    "word": "Ire",
+    "definition": "anger [irate (a) = very angry]"
+  },
+  {
+    "id": 2031,
+    "word": "Munificent",
+    "definition": "generous; charitable"
+  },
+  {
+    "id": 2032,
+    "word": "Perpetuity",
+    "definition": "eternity"
+  },
+  {
+    "id": 2033,
+    "word": "Rant",
+    "definition": "use bombastic language"
+  },
+  {
+    "id": 2034,
+    "word": "Stupefying",
+    "definition": "astonishing; shocking; stunning into silence"
+  },
+  {
+    "id": 2035,
+    "word": "Voluminous",
+    "definition": "very large; spacious"
+  },
+  {
+    "id": 2036,
+    "word": "Germinal",
+    "definition": "just growing; not developed; immature"
+  },
+  {
+    "id": 2037,
+    "word": "Irksome",
+    "definition": "annoying; infuriating"
+  },
+  {
+    "id": 2038,
+    "word": "Mutinous",
+    "definition": "very rebellious"
+  },
+  {
+    "id": 2039,
+    "word": "Personable",
+    "definition": "attractive"
+  },
+  {
+    "id": 2040,
+    "word": "Ratify",
+    "definition": "approve; consent"
+  },
+  {
+    "id": 2041,
+    "word": "Subpoena",
+    "definition": "summons to court"
+  },
+  {
+    "id": 2042,
+    "word": "Voracious",
+    "definition": "ravenous"
+  },
+  {
+    "id": 2043,
+    "word": "Gibbering",
+    "definition": "making meaningless noises"
+  },
+  {
+    "id": 2044,
+    "word": "Ironic",
+    "definition": "satiric; unexpected"
+  },
+  {
+    "id": 2045,
+    "word": "Myriad",
+    "definition": "in large numbers"
+  },
+  {
+    "id": 2046,
+    "word": "Perspicacious",
+    "definition": "insightful; sharp; wise"
+  },
+  {
+    "id": 2047,
+    "word": "Raucous",
+    "definition": "rough and unpleasant (of sounds)"
+  },
+  {
+    "id": 2048,
+    "word": "Waive",
+    "definition": "surrender; give up"
+  },
+  {
+    "id": 2049,
+    "word": "Glacial",
+    "definition": "hostile; unfriendly; cold; icy"
+  },
+  {
+    "id": 2050,
+    "word": "Irrational",
+    "definition": "unreasonable; absurd"
+  },
+  {
+    "id": 2051,
+    "word": "Navigable",
+    "definition": "suitable for sailing"
+  },
+  {
+    "id": 2052,
+    "word": "Perspicacity",
+    "definition": "insight"
+  },
+  {
+    "id": 2053,
+    "word": "Raze",
+    "definition": "destroy; demolish; tear down"
+  },
+  {
+    "id": 2054,
+    "word": "Subterfuge",
+    "definition": "a trick"
+  },
+  {
+    "id": 2055,
+    "word": "Wane",
+    "definition": "grow less"
+  },
+  {
+    "id": 2056,
+    "word": "Egalitarianism",
+    "definition": "belief in equality"
+  },
+  {
+    "id": 2057,
+    "word": "Goad",
+    "definition": "prod; urge"
+  },
+  {
+    "id": 2058,
+    "word": "Irreproachable",
+    "definition": "cannot be criticized; perfect"
+  },
+  {
+    "id": 2059,
+    "word": "Nebulous",
+    "definition": "vague"
+  },
+  {
+    "id": 2060,
+    "word": "Pertinent",
+    "definition": "relevant"
+  },
+  {
+    "id": 2061,
+    "word": "Rebuttal",
+    "definition": "denial"
+  },
+  {
+    "id": 2062,
+    "word": "Subtle",
+    "definition": "not obvious"
+  },
+  {
+    "id": 2063,
+    "word": "Grate (v)",
+    "definition": "1. to annoy; aggravate; vex; 2. shred"
+  },
+  {
+    "id": 2064,
+    "word": "Irrevocable",
+    "definition": "cannot be cancelled; unchangeable"
+  },
+  {
+    "id": 2065,
+    "word": "Nefarious",
+    "definition": "wicked; immoral; disreputable"
+  },
+  {
+    "id": 2066,
+    "word": "Peruse",
+    "definition": "read carefully"
+  },
+  {
+    "id": 2067,
+    "word": "Recant",
+    "definition": "disclaim; retract statement"
+  },
+  {
+    "id": 2068,
+    "word": "Subversive",
+    "definition": "rebellious; revolutionary"
+  },
+  {
+    "id": 2069,
+    "word": "Wax",
+    "definition": "to increase; to grow"
+  },
+  {
+    "id": 2070,
+    "word": "Beleaguer",
+    "definition": "besiege; attack"
+  },
+  {
+    "id": 2071,
+    "word": "Gratis",
+    "definition": "free of charge; without payment"
+  },
+  {
+    "id": 2072,
+    "word": "Itinerant",
+    "definition": "nomadic; wandering from place to place"
+  },
+  {
+    "id": 2073,
+    "word": "Negate",
+    "definition": "cancel; deny"
+  },
+  {
+    "id": 2074,
+    "word": "Pervasive",
+    "definition": "spreading everywhere"
+  },
+  {
+    "id": 2075,
+    "word": "Recapitulate",
+    "definition": "summarize"
+  },
+  {
+    "id": 2076,
+    "word": "Succinct",
+    "definition": "concise"
+  },
+  {
+    "id": 2077,
+    "word": "Waylay",
+    "definition": "accost; stop; approach; hinder"
+  },
+  {
+    "id": 2078,
+    "word": "Eloquent",
+    "definition": "fluent and persuasive in speech"
+  },
+  {
+    "id": 2079,
+    "word": "Gratuitous",
+    "definition": "unwarranted"
+  },
+  {
+    "id": 2080,
+    "word": "Jaded",
+    "definition": "tired; bored; worn out"
+  },
+  {
+    "id": 2081,
+    "word": "Negligence",
+    "definition": "carelessness"
+  },
+  {
+    "id": 2082,
+    "word": "Petrify",
+    "definition": "1. terrify; 2. turn to stone"
+  },
+  {
+    "id": 2083,
+    "word": "Receptacle",
+    "definition": "container; vessel; holder"
+  },
+  {
+    "id": 2084,
+    "word": "Suffragist",
+    "definition": "someone who campaigns for voting rights"
+  },
+  {
+    "id": 2085,
+    "word": "Weighty",
+    "definition": "serious"
+  },
+  {
+    "id": 2086,
+    "word": "Conspicuous",
+    "definition": "easily seen; prominent"
+  },
+  {
+    "id": 2087,
+    "word": "Gravity",
+    "definition": "seriousness"
+  },
+  {
+    "id": 2088,
+    "word": "Jargon",
+    "definition": "specialized language used by experts"
+  },
+  {
+    "id": 2089,
+    "word": "Neologism",
+    "definition": "newly coined word"
+  },
+  {
+    "id": 2090,
+    "word": "Petulant",
+    "definition": "sulky; peevish"
+  },
+  {
+    "id": 2091,
+    "word": "Recluse",
+    "definition": "someone who cuts himself off from life"
+  },
+  {
+    "id": 2092,
+    "word": "Supercilious",
+    "definition": "proud and haughty"
+  },
+  {
+    "id": 2093,
+    "word": "Whelp",
+    "definition": "young dog"
+  },
+  {
+    "id": 2094,
+    "word": "Bellicose",
+    "definition": "war-like; aggressive"
+  },
+  {
+    "id": 2095,
+    "word": "Gregarious",
+    "definition": "extroverted; sociable; outgoing"
+  },
+  {
+    "id": 2096,
+    "word": "Jaundiced",
+    "definition": "cynical; pessimistic"
+  },
+  {
+    "id": 2097,
+    "word": "Nettle",
+    "definition": "annoy"
+  },
+  {
+    "id": 2098,
+    "word": "Phenomenon",
+    "definition": "an event or happening (plural: phenomena)"
+  },
+  {
+    "id": 2099,
+    "word": "Recuperate",
+    "definition": "get better after illness"
+  },
+  {
+    "id": 2100,
+    "word": "Superlative",
+    "definition": "extremely good; the best"
+  },
+  {
+    "id": 2101,
+    "word": "Whet",
+    "definition": "sharpen"
+  },
+  {
+    "id": 2102,
+    "word": "Contemporary",
+    "definition": "living or happening at the same time"
+  },
+  {
+    "id": 2103,
+    "word": "Gritty",
+    "definition": "coarse; granular"
+  },
+  {
+    "id": 2104,
+    "word": "Jaunt",
+    "definition": "short pleasure trip"
+  },
+  {
+    "id": 2105,
+    "word": "Niggardly",
+    "definition": "miserly; stingy"
+  },
+  {
+    "id": 2106,
+    "word": "Philanthropy",
+    "definition": "charity; love of mankind"
+  },
+  {
+    "id": 2107,
+    "word": "Red tape",
+    "definition": "formalities; paperwork; official procedure"
+  },
+  {
+    "id": 2108,
+    "word": "Surly",
+    "definition": "grumpy; rude"
+  },
+  {
+    "id": 2109,
+    "word": "Whimsical",
+    "definition": "capricious; changeable"
+  },
+  {
+    "id": 2110,
+    "word": "Guffaw",
+    "definition": "sudden loud laughter"
+  },
+  {
+    "id": 2111,
+    "word": "Jeopardize",
+    "definition": "put at risk; endanger"
+  },
+  {
+    "id": 2112,
+    "word": "Nomadic",
+    "definition": "wandering from place to place"
+  },
+  {
+    "id": 2113,
+    "word": "Philistine",
+    "definition": "uncultured person"
+  },
+  {
+    "id": 2114,
+    "word": "Redolent",
+    "definition": "smelling of; giving off odors"
+  },
+  {
+    "id": 2115,
+    "word": "Willful",
+    "definition": "stubborn"
+  },
+  {
+    "id": 2116,
+    "word": "Contrition",
+    "definition": "sorrow and repentance"
+  },
+  {
+    "id": 2117,
+    "word": "Embezzle",
+    "definition": "defraud; steal"
+  },
+  {
+    "id": 2118,
+    "word": "Guile",
+    "definition": "cunning; craftiness"
+  },
+  {
+    "id": 2119,
+    "word": "Jingoistic",
+    "definition": "extremely patriotic; nationalistic"
+  },
+  {
+    "id": 2120,
+    "word": "Nonchalance",
+    "definition": "an appearance of indifference; calm and composed"
+  },
+  {
+    "id": 2121,
+    "word": "Phlegmatic",
+    "definition": "calm; imperturbable"
+  },
+  {
+    "id": 2122,
+    "word": "Redress",
+    "definition": "put right something that was wrong"
+  },
+  {
+    "id": 2123,
+    "word": "Surreptitiously",
+    "definition": "secretly; furtively; stealthily"
+  },
+  {
+    "id": 2124,
+    "word": "Wily",
+    "definition": "cunning"
+  },
+  {
+    "id": 2125,
+    "word": "Guileless",
+    "definition": "frank; straightforward; honest"
+  },
+  {
+    "id": 2126,
+    "word": "Jocular",
+    "definition": "in a joking manner"
+  },
+  {
+    "id": 2127,
+    "word": "Nondescript",
+    "definition": "having no special features; dull and ordinary"
+  },
+  {
+    "id": 2128,
+    "word": "Pillage",
+    "definition": "plunder"
+  },
+  {
+    "id": 2129,
+    "word": "Redundant",
+    "definition": "unnecessary; superfluous"
+  },
+  {
+    "id": 2130,
+    "word": "Susceptible",
+    "definition": "vulnerable"
+  },
+  {
+    "id": 2131,
+    "word": "Wispy",
+    "definition": "flimsy; frail; delicate"
+  },
+  {
+    "id": 2132,
+    "word": "Benignity",
+    "definition": "compassion; gentleness; fondness"
+  },
+  {
+    "id": 2133,
+    "word": "Emerge",
+    "definition": "come out; appear"
+  },
+  {
+    "id": 2134,
+    "word": "Gullibility",
+    "definition": "unwariness; trustfulness; being easily fooled"
+  },
+  {
+    "id": 2135,
+    "word": "Jollity",
+    "definition": "gaiety; happiness"
+  },
+  {
+    "id": 2136,
+    "word": "Nonentity",
+    "definition": "a person of no importance; not famous"
+  },
+  {
+    "id": 2137,
+    "word": "Pinnacle",
+    "definition": "topmost point"
+  },
+  {
+    "id": 2138,
+    "word": "Referendum",
+    "definition": "public vote"
+  },
+  {
+    "id": 2139,
+    "word": "Suspect",
+    "definition": "doubtful"
+  },
+  {
+    "id": 2140,
+    "word": "Wistful",
+    "definition": "melancholy; pensive; expressing a longing for"
+  },
+  {
+    "id": 2141,
+    "word": "Gullible",
+    "definition": "easily fooled"
+  },
+  {
+    "id": 2142,
+    "word": "Jubilant",
+    "definition": "ecstatic; delighted; rejoicing"
+  },
+  {
+    "id": 2143,
+    "word": "Nostalgia",
+    "definition": "longing for the past"
+  },
+  {
+    "id": 2144,
+    "word": "Pious",
+    "definition": "very religious"
+  },
+  {
+    "id": 2145,
+    "word": "Refute",
+    "definition": "disprove"
+  },
+  {
+    "id": 2146,
+    "word": "Sybarite",
+    "definition": "lover of luxury"
+  },
+  {
+    "id": 2147,
+    "word": "Zany",
+    "definition": "crazy; wacky"
+  },
+  {
+    "id": 2148,
+    "word": "Gustatory",
+    "definition": "concerned with the sense of taste"
+  },
+  {
+    "id": 2149,
+    "word": "Judicious",
+    "definition": "correct in judgment; wise"
+  },
+  {
+    "id": 2150,
+    "word": "Notoriety",
+    "definition": "infamy; known for wrong doing"
+  },
+  {
+    "id": 2151,
+    "word": "Pivotal",
+    "definition": "of central importance"
+  },
+  {
+    "id": 2152,
+    "word": "Regale",
+    "definition": "entertain"
+  },
+  {
+    "id": 2153,
+    "word": "Sycophant",
+    "definition": "bootlicker; flatterer"
+  },
+  {
+    "id": 2154,
+    "word": "Zeal",
+    "definition": "enthusiasm"
+  },
+  {
+    "id": 2155,
+    "word": "Beret",
+    "definition": "type of cap"
+  },
+  {
+    "id": 2156,
+    "word": "Endurance",
+    "definition": "staying power; patience; stamina"
+  },
+  {
+    "id": 2157,
+    "word": "Jurisprudence",
+    "definition": "science or study of law"
+  },
+  {
+    "id": 2158,
+    "word": "Novel",
+    "definition": "new; unusual"
+  },
+  {
+    "id": 2159,
+    "word": "Placate",
+    "definition": "pacify; soothe; calm"
+  },
+  {
+    "id": 2160,
+    "word": "Relegate",
+    "definition": "dismiss to a lower position"
+  },
+  {
+    "id": 2161,
+    "word": "Taciturn",
+    "definition": "quiet; saying little"
+  },
+  {
+    "id": 2162,
+    "word": "Zealot",
+    "definition": "fanatic"
+  },
+  {
+    "id": 2163,
+    "word": "Hallowed",
+    "definition": "worshipped; consecrated"
+  },
+  {
+    "id": 2164,
+    "word": "Juxtapose",
+    "definition": "place next to"
+  },
+  {
+    "id": 2165,
+    "word": "Placebo",
+    "definition": "harmless medicine with no effect; dummy medicine"
+  },
+  {
+    "id": 2166,
+    "word": "Remorse",
+    "definition": "regret; sorrow; contrition"
+  },
+  {
+    "id": 2167,
+    "word": "Tactile",
+    "definition": "concerned with the sense of touch"
+  },
+  {
+    "id": 2168,
+    "word": "Zenith",
+    "definition": "summit"
+  },
+  {
+    "id": 2169,
+    "word": "Abate",
+    "definition": "reduce in intensity"
+  },
+  {
+    "id": 2170,
+    "word": "Abjure",
+    "definition": "renounce; swear to refrain from something"
+  },
+  {
+    "id": 2171,
+    "word": "Equivocation",
+    "definition": "speaking ambiguously [equivocate (v), equivocal (a)]"
+  },
+  {
+    "id": 2172,
+    "word": "Feckless",
+    "definition": "feeble; helpless; lacking in initiative"
+  },
+  {
+    "id": 2173,
+    "word": "Imperturbability",
+    "definition": "quality of being calm and not easily disturbed [imperturbable (a)]"
+  },
+  {
+    "id": 2174,
+    "word": "Meretricious",
+    "definition": "falsely attractive; tawdry"
+  },
+  {
+    "id": 2175,
+    "word": "Glib",
+    "definition": "slick; superficial esp. in speech"
+  },
+  {
+    "id": 2176,
+    "word": "Incise",
+    "definition": "cut into [incision (n); incisive (a)]"
+  },
+  {
+    "id": 2177,
+    "word": "Moralistic",
+    "definition": "concerned with morals [moralize (v)]"
+  },
+  {
+    "id": 2178,
+    "word": "Ostracism",
+    "definition": "shunning; social isolation [ostracize (v)]"
+  },
+  {
+    "id": 2179,
+    "word": "Penchant",
+    "definition": "inclination; leaning; tendency; predilection"
+  },
+  {
+    "id": 2180,
+    "word": "Rarefy",
+    "definition": "make less dense [rarefaction (n)]"
+  },
+  {
+    "id": 2181,
+    "word": "Repine",
+    "definition": "fret; be discontented"
+  },
+  {
+    "id": 2182,
+    "word": "Stipulate",
+    "definition": "specify [stipulation (n)]"
+  },
+  {
+    "id": 2183,
+    "word": "Inured",
+    "definition": "hardened; habituated"
+  },
+  {
+    "id": 2184,
+    "word": "Mettlesome",
+    "definition": "spirited [mettle (n)]"
+  },
+  {
+    "id": 2185,
+    "word": "Puissance",
+    "definition": "power"
+  },
+  {
+    "id": 2186,
+    "word": "Recondite",
+    "definition": "obscure"
+  },
+  {
+    "id": 2187,
+    "word": "Stygian",
+    "definition": "very dark"
+  },
+  {
+    "id": 2188,
+    "word": "Touting",
+    "definition": "advertising; supporting [tout (v)]"
+  },
+  {
+    "id": 2189,
+    "word": "Virtuosity",
+    "definition": "skill, expertise [virtuoso (n); virtuosi (n.pl)]"
+  },
+  {
+    "id": 2190,
+    "word": "Volubility",
+    "definition": "excessive talkativeness [voluble (a)]"
+  },
+  {
+    "id": 2191,
+    "word": "Caret",
+    "definition": "punctuation mark signifying omission"
+  },
+  {
+    "id": 2192,
+    "word": "Damp",
+    "definition": "(used of vibration) reduce in extent"
+  },
+  {
+    "id": 2193,
+    "word": "Extirpation",
+    "definition": "wiping out; complete destruction [extirpate (v)]"
+  },
+  {
+    "id": 2194,
+    "word": "Foppish",
+    "definition": "behaving or dressing like a dandy; excessively concerned with fashion"
+  },
+  {
+    "id": 2195,
+    "word": "Gaffe",
+    "definition": "blunder; social mistake"
+  },
+  {
+    "id": 2196,
+    "word": "Hortatory",
+    "definition": "encouraging; exhorting"
+  },
+  {
+    "id": 2197,
+    "word": "Opprobrious",
+    "definition": "expressing great scorn [opprobrium (n)]"
+  },
+  {
+    "id": 2198,
+    "word": "Recumbent",
+    "definition": "reclining; lying down"
+  },
+  {
+    "id": 2199,
+    "word": "Ambidextrous",
+    "definition": "able to use both left and right hands equally well"
+  },
+  {
+    "id": 2200,
+    "word": "Culpability",
+    "definition": "guilt [culpable = blameworthy]"
+  },
+  {
+    "id": 2201,
+    "word": "Discernment",
+    "definition": "judgment; perceptiveness"
+  },
+  {
+    "id": 2202,
+    "word": "Inveigle",
+    "definition": "coax; cajole; wheedle; entice"
+  },
+  {
+    "id": 2203,
+    "word": "Minatory",
+    "definition": "threatening"
+  },
+  {
+    "id": 2204,
+    "word": "Ossified",
+    "definition": "turned to bone; become rigid [ossification (n)]"
+  },
+  {
+    "id": 2205,
+    "word": "Plumb",
+    "definition": "measure depth of (v); exact (a. slang)"
+  },
+  {
+    "id": 2206,
+    "word": "Quintessential",
+    "definition": "most typical; the perfect example of [quintessence (n)]"
+  },
+  {
+    "id": 2207,
+    "word": "Runic",
+    "definition": "mysterious; magical"
+  },
+  {
+    "id": 2208,
+    "word": "Accretion",
+    "definition": "accumulation of matter; growth produced by adding from the outside"
+  },
+  {
+    "id": 2209,
+    "word": "Churlishness",
+    "definition": "rudeness; ill- mannered behavior"
+  },
+  {
+    "id": 2210,
+    "word": "Idyll",
+    "definition": "story or incident in peaceful or ideal setting [idyllic (a)]"
+  },
+  {
+    "id": 2211,
+    "word": "Interregnum",
+    "definition": "interval between reigns or governments"
+  },
+  {
+    "id": 2212,
+    "word": "Nugatory",
+    "definition": "of minor significance; futile"
+  },
+  {
+    "id": 2213,
+    "word": "Sinecure",
+    "definition": "job which pays salary but requiring little effort"
+  },
+  {
+    "id": 2214,
+    "word": "Anodized",
+    "definition": "electroplated; coated with thin layer of metal"
+  },
+  {
+    "id": 2215,
+    "word": "Aphoristic",
+    "definition": "expressed tersely [aphorism (n) = short statement; maxim]"
+  },
+  {
+    "id": 2216,
+    "word": "Canonical",
+    "definition": "orthodox [canon (n) = set of accepted works]"
+  },
+  {
+    "id": 2217,
+    "word": "Dexterity",
+    "definition": "skill, esp. with hands [dexterous (a)]"
+  },
+  {
+    "id": 2218,
+    "word": "Impugned",
+    "definition": "challenged; called into question"
+  },
+  {
+    "id": 2219,
+    "word": "Probity",
+    "definition": "uprightness; honesty"
+  },
+  {
+    "id": 2220,
+    "word": "Raconteur",
+    "definition": "person who relates a story"
+  },
+  {
+    "id": 2221,
+    "word": "Solicitous",
+    "definition": "kindly; expressing care and concern"
+  },
+  {
+    "id": 2222,
+    "word": "Amalgamate",
+    "definition": "join; consolidate [amalgamation (n)]"
+  },
+  {
+    "id": 2223,
+    "word": "Coerce",
+    "definition": "force [coercion (n); coercing (a)]"
+  },
+  {
+    "id": 2224,
+    "word": "Inchoate",
+    "definition": "undeveloped; nascent"
+  },
+  {
+    "id": 2225,
+    "word": "Iniquitous",
+    "definition": "evil; unjust [iniquity (n)]"
+  },
+  {
+    "id": 2226,
+    "word": "Libertine",
+    "definition": "dissolute person; prodigal"
+  },
+  {
+    "id": 2227,
+    "word": "Millinery",
+    "definition": "hats and hat-making"
+  },
+  {
+    "id": 2228,
+    "word": "Natty",
+    "definition": "neat; dapper; smart"
+  },
+  {
+    "id": 2229,
+    "word": "Occluded",
+    "definition": "obscured; blocked"
+  },
+  {
+    "id": 2230,
+    "word": "Sidereal",
+    "definition": "of or related to stars"
+  },
+  {
+    "id": 2231,
+    "word": "Avaricious",
+    "definition": "greedy for money"
+  },
+  {
+    "id": 2232,
+    "word": "Halcyon",
+    "definition": "peaceful and happy; calm (esp. of summer weather)"
+  },
+  {
+    "id": 2233,
+    "word": "List (v)",
+    "definition": "1. to lean to one side; 2. to write in order"
+  },
+  {
+    "id": 2234,
+    "word": "Maudlin",
+    "definition": "sad; sentimental; inclined to weep"
+  },
+  {
+    "id": 2235,
+    "word": "Refulgent",
+    "definition": "glowing; radiant"
+  },
+  {
+    "id": 2236,
+    "word": "Subliminal",
+    "definition": "below the threshold of consciousness"
+  },
+  {
+    "id": 2237,
+    "word": "Testiness",
+    "definition": "irritability; irascibility [testy (a)]"
+  },
+  {
+    "id": 2238,
+    "word": "Vituperate",
+    "definition": "attack bitterly"
+  },
+  {
+    "id": 2239,
+    "word": "Whittle",
+    "definition": "1. carve with knife; 2. reduce step by step"
+  },
+  {
+    "id": 2240,
+    "word": "Epistemology",
+    "definition": "theory of knowledge"
+  },
+  {
+    "id": 2241,
+    "word": "Froward",
+    "definition": "stubborn; wayward; disobedient"
+  },
+  {
+    "id": 2242,
+    "word": "Supine",
+    "definition": "lying flat on one’s back"
+  },
+  {
+    "id": 2243,
+    "word": "Throwback",
+    "definition": "exhibiting primitive, or ancestral, traits"
+  },
+  {
+    "id": 2244,
+    "word": "Untoward",
+    "definition": "unexpected"
+  },
+  {
+    "id": 2245,
+    "word": "Verisimilar",
+    "definition": "true to life; giving the appearance of reality"
+  },
+  {
+    "id": 2246,
+    "word": "Abysmal",
+    "definition": "very deep; very bad"
+  },
+  {
+    "id": 2247,
+    "word": "Bent (n)",
+    "definition": "inclination; aptitude"
+  },
+  {
+    "id": 2248,
+    "word": "Cadge",
+    "definition": "get by begging"
+  },
+  {
+    "id": 2249,
+    "word": "Extemporize",
+    "definition": "speak without preparation or rehearsal [extemporaneous (a)]"
+  },
+  {
+    "id": 2250,
+    "word": "Incumbents",
+    "definition": "occupiers of a job or position"
+  },
+  {
+    "id": 2251,
+    "word": "Lambaste",
+    "definition": "attack verbally"
+  },
+  {
+    "id": 2252,
+    "word": "Noisome",
+    "definition": "disgusting"
+  },
+  {
+    "id": 2253,
+    "word": "Pastiche",
+    "definition": "work (usually artistic) which imitates, or is composed of parts taken from varied sources"
+  },
+  {
+    "id": 2254,
+    "word": "Arboreal",
+    "definition": "living in trees; concerned with trees"
+  },
+  {
+    "id": 2255,
+    "word": "Cloistered",
+    "definition": "isolated"
+  },
+  {
+    "id": 2256,
+    "word": "Engendering",
+    "definition": "causing; bringing into being [engender (v)]"
+  },
+  {
+    "id": 2257,
+    "word": "Intemperate",
+    "definition": "excessive; immoderate [intemperance (n)]"
+  },
+  {
+    "id": 2258,
+    "word": "Lugubrious",
+    "definition": "sad; gloomy"
+  },
+  {
+    "id": 2259,
+    "word": "Nonplussed",
+    "definition": "confused"
+  },
+  {
+    "id": 2260,
+    "word": "Pedagogy",
+    "definition": "science of education; teaching"
+  },
+  {
+    "id": 2261,
+    "word": "Satiate",
+    "definition": "satisfy; fill completely [satiable (a); satiation (n)]"
+  },
+  {
+    "id": 2262,
+    "word": "Slake",
+    "definition": "quench; satisfy"
+  },
+  {
+    "id": 2263,
+    "word": "Comeliness",
+    "definition": "beauty; prettiness [comely (a)]"
+  },
+  {
+    "id": 2264,
+    "word": "Erudition",
+    "definition": "learning; scholarly knowledge [erudite (a)]"
+  },
+  {
+    "id": 2265,
+    "word": "Plaintive",
+    "definition": "sad; mournful"
+  },
+  {
+    "id": 2266,
+    "word": "Suborn",
+    "definition": "bribe"
+  },
+  {
+    "id": 2267,
+    "word": "Tendentious",
+    "definition": "dogmatic; biased"
+  },
+  {
+    "id": 2268,
+    "word": "Tortuous",
+    "definition": "indirect; winding"
+  },
+  {
+    "id": 2269,
+    "word": "Verbiage",
+    "definition": "excessive or meaningless wordiness"
+  },
+  {
+    "id": 2270,
+    "word": "Atonement",
+    "definition": "making amends for sin or crime [atone (v)]"
+  },
+  {
+    "id": 2271,
+    "word": "Complaisance",
+    "definition": "flexibility; willingness to please [complaisant (a)]"
+  },
+  {
+    "id": 2272,
+    "word": "Daguerreotype",
+    "definition": "forerunner of the photograph"
+  },
+  {
+    "id": 2273,
+    "word": "Fawn",
+    "definition": "behave in a sycophantic way; grovel [fawning (a)]"
+  },
+  {
+    "id": 2274,
+    "word": "Gregariousness",
+    "definition": "sociability; liking for crowds [gregarious (a)]"
+  },
+  {
+    "id": 2275,
+    "word": "Nascent",
+    "definition": "emerging; newly formed"
+  },
+  {
+    "id": 2276,
+    "word": "Paean",
+    "definition": "praise; tribute (esp. in song)"
+  },
+  {
+    "id": 2277,
+    "word": "Reproof",
+    "definition": "scolding; criticism [reprove (v)]"
+  },
+  {
+    "id": 2278,
+    "word": "Scurvy",
+    "definition": "1. disease due to lack of vitamin C; 2. contemptible; rascally"
+  },
+  {
+    "id": 2279,
+    "word": "Tutelary",
+    "definition": "serving as a guardian [tutelage (n)]"
+  },
+  {
+    "id": 2280,
+    "word": "Abscission",
+    "definition": "cutting; process causing leaves to fall off"
+  },
+  {
+    "id": 2281,
+    "word": "Debilitating",
+    "definition": "weakening [debilitate (v)]"
+  },
+  {
+    "id": 2282,
+    "word": "Importune",
+    "definition": "beg; solicit [importunate (a)]"
+  },
+  {
+    "id": 2283,
+    "word": "Pertain",
+    "definition": "be relevant to [pertinent (a)]"
+  },
+  {
+    "id": 2284,
+    "word": "Slew",
+    "definition": "glut; excess"
+  },
+  {
+    "id": 2285,
+    "word": "Toady",
+    "definition": "sycophant; flatterer"
+  },
+  {
+    "id": 2286,
+    "word": "Torrid",
+    "definition": "hot and steamy"
+  },
+  {
+    "id": 2287,
+    "word": "Veracious",
+    "definition": "true [veracity (n)]"
+  },
+  {
+    "id": 2288,
+    "word": "Asperity",
+    "definition": "using harsh or critical tone"
+  },
+  {
+    "id": 2289,
+    "word": "Blowhard",
+    "definition": "boastful person"
+  },
+  {
+    "id": 2290,
+    "word": "Intangible",
+    "definition": "cannot be touched; abstract [intangibility (n)]"
+  },
+  {
+    "id": 2291,
+    "word": "Labile",
+    "definition": "changing rapidly; unstable"
+  },
+  {
+    "id": 2292,
+    "word": "Malapropism",
+    "definition": "use of similar sounding but incorrect word"
+  },
+  {
+    "id": 2293,
+    "word": "Posture (v)",
+    "definition": "to put on an act"
+  },
+  {
+    "id": 2294,
+    "word": "Proximate",
+    "definition": "immediate; nearest"
+  },
+  {
+    "id": 2295,
+    "word": "Pugnacious",
+    "definition": "aggressive, ready to fight [pugnacity (n)]"
+  },
+  {
+    "id": 2296,
+    "word": "Foreshadowed",
+    "definition": "indicated a future event [foreshadow (v)]"
+  },
+  {
+    "id": 2297,
+    "word": "Gaucherie",
+    "definition": "awkwardness [gauche (a)]"
+  },
+  {
+    "id": 2298,
+    "word": "Heterodox",
+    "definition": "unorthodox"
+  },
+  {
+    "id": 2299,
+    "word": "Inscrutability",
+    "definition": "quality of being difficult to comprehend [inscrutable (a)]"
+  },
+  {
+    "id": 2300,
+    "word": "Limerick",
+    "definition": "short amusing poem"
+  },
+  {
+    "id": 2301,
+    "word": "Mannered",
+    "definition": "stylized; pretentious"
+  },
+  {
+    "id": 2302,
+    "word": "Pluck (n)",
+    "definition": "courage"
+  },
+  {
+    "id": 2303,
+    "word": "Sedulous",
+    "definition": "persevering; eager and thorough"
+  },
+  {
+    "id": 2304,
+    "word": "Syllogism",
+    "definition": "type of logical reasoning"
+  },
+  {
+    "id": 2305,
+    "word": "Vicissitude",
+    "definition": "unexpected change in fortune or circumstances"
+  },
+  {
+    "id": 2306,
+    "word": "Acolyte",
+    "definition": "disciple; follower or attendant"
+  },
+  {
+    "id": 2307,
+    "word": "Admonitory",
+    "definition": "scolding [admonition (n)]"
+  },
+  {
+    "id": 2308,
+    "word": "Caprices",
+    "definition": "whimsies; fancies"
+  },
+  {
+    "id": 2309,
+    "word": "Deferential",
+    "definition": "showing respect [deference (n); defer (v)]"
+  },
+  {
+    "id": 2310,
+    "word": "Intractability",
+    "definition": "stubbornness; resistance [intractable (a)]"
+  },
+  {
+    "id": 2311,
+    "word": "Luminary",
+    "definition": "eminent person"
+  },
+  {
+    "id": 2312,
+    "word": "Minion",
+    "definition": "underling; servant"
+  },
+  {
+    "id": 2313,
+    "word": "Undergird",
+    "definition": "support; strengthen"
+  },
+  {
+    "id": 2314,
+    "word": "Vitiate",
+    "definition": "weaken; sap energy"
+  },
+  {
+    "id": 2315,
+    "word": "Gainsay",
+    "definition": "contradict"
+  },
+  {
+    "id": 2316,
+    "word": "Modest",
+    "definition": "1. bashful; unpretentious; 2. not excessive"
+  },
+  {
+    "id": 2317,
+    "word": "Prolixity",
+    "definition": "wordiness [prolix (a)]"
+  },
+  {
+    "id": 2318,
+    "word": "Rebus",
+    "definition": "puzzle in which pictures give clues"
+  },
+  {
+    "id": 2319,
+    "word": "Sere",
+    "definition": "withered; old"
+  },
+  {
+    "id": 2320,
+    "word": "Vulpine",
+    "definition": "like a fox [compare with bovine (cow-like); porcine (pig-like), etc.]"
+  },
+  {
+    "id": 2321,
+    "word": "Exacerbated",
+    "definition": "made worse [exacerbate (v); exacerbation (n)]"
+  },
+  {
+    "id": 2322,
+    "word": "Exact (v)",
+    "definition": "to demand; extort"
+  },
+  {
+    "id": 2323,
+    "word": "Faddish",
+    "definition": "whimsical; following a fashion"
+  },
+  {
+    "id": 2324,
+    "word": "Hapless",
+    "definition": "unlucky"
+  },
+  {
+    "id": 2325,
+    "word": "Misconstrue",
+    "definition": "put a wrong interpretation on something"
+  },
+  {
+    "id": 2326,
+    "word": "Perennial",
+    "definition": "long-lasting"
+  },
+  {
+    "id": 2327,
+    "word": "Rent",
+    "definition": "torn (past participle of the verb to rend)"
+  },
+  {
+    "id": 2328,
+    "word": "Shard",
+    "definition": "fragment of pottery"
+  },
+  {
+    "id": 2329,
+    "word": "Xenophobe",
+    "definition": "person afraid of foreigners"
+  },
+  {
+    "id": 2330,
+    "word": "Alleviated",
+    "definition": "made less severe [alleviation (n); alleviate (v)]"
+  },
+  {
+    "id": 2331,
+    "word": "Apostrophe",
+    "definition": "1. punctuation mark; 2. appeal to someone not present (a figure of speech)"
+  },
+  {
+    "id": 2332,
+    "word": "Fusillade",
+    "definition": "long burst of gunfire"
+  },
+  {
+    "id": 2333,
+    "word": "Inerrancy",
+    "definition": "infallibility; inability to make mistakes [inerrant (a)]"
+  },
+  {
+    "id": 2334,
+    "word": "Mince",
+    "definition": "1. chop into small pieces;"
+  },
+  {
+    "id": 2335,
+    "word": "walk with tiny steps",
+    "definition": "3. speak in an affected manner"
+  },
+  {
+    "id": 2336,
+    "word": "Palpate",
+    "definition": "medical term meaning to examine with the hands"
+  },
+  {
+    "id": 2337,
+    "word": "Platitude",
+    "definition": "unoriginal, obvious saying"
+  },
+  {
+    "id": 2338,
+    "word": "Quibble",
+    "definition": "1. (v) to argue about minor matters; to play on words when finding fault; 2. (n) a minor verbal point in an argument"
+  },
+  {
+    "id": 2339,
+    "word": "Apprehension",
+    "definition": "slight fear; sense of something unfavorable"
+  },
+  {
+    "id": 2340,
+    "word": "Conniving",
+    "definition": "cunning; scheming [connive (v)]"
+  },
+  {
+    "id": 2341,
+    "word": "Lassitude",
+    "definition": "lack of energy; weariness"
+  },
+  {
+    "id": 2342,
+    "word": "Pedantic",
+    "definition": "over-insistent on matters of book-learning [pedant (n)]"
+  },
+  {
+    "id": 2343,
+    "word": "Phenomenology",
+    "definition": "branch of science concerned with things as they are perceived; not directly derived from theory"
+  },
+  {
+    "id": 2344,
+    "word": "Precipitate",
+    "definition": "1. hurried (a); 2. insoluble product of a reaction in chemistry(n), 3. to instigate or speed up an action (v)"
+  },
+  {
+    "id": 2345,
+    "word": "Renege",
+    "definition": "go back on promise or retract statement"
+  },
+  {
+    "id": 2346,
+    "word": "Dawdler",
+    "definition": "slow person who falls behind others [dawdle (v)]"
+  },
+  {
+    "id": 2347,
+    "word": "Hack",
+    "definition": "1. chop roughly; 2. person who writes to earn money, 3. hired horse"
+  },
+  {
+    "id": 2348,
+    "word": "Prone",
+    "definition": "1. vulnerable to; 2. horizontal"
+  },
+  {
+    "id": 2349,
+    "word": "Propensity",
+    "definition": "tendency; inclination"
+  },
+  {
+    "id": 2350,
+    "word": "Scabbard",
+    "definition": "cover for a sword"
+  },
+  {
+    "id": 2351,
+    "word": "Skiff",
+    "definition": "small boat"
+  },
+  {
+    "id": 2352,
+    "word": "Umbrage",
+    "definition": "1. shadow; 2. offence; sense of injury"
+  },
+  {
+    "id": 2353,
+    "word": "Dilettantism",
+    "definition": "dabbling esp. in the arts [dilettante (n) = person who dabbles]"
+  },
+  {
+    "id": 2354,
+    "word": "Malevolent",
+    "definition": "having evil intentions [malevolence(n)]"
+  },
+  {
+    "id": 2355,
+    "word": "Neophyte",
+    "definition": "new convert; tyro"
+  },
+  {
+    "id": 2356,
+    "word": "Panegyric",
+    "definition": "speech praising someone; laudatory words"
+  },
+  {
+    "id": 2357,
+    "word": "Presage",
+    "definition": "forewarn of; indicate"
+  },
+  {
+    "id": 2358,
+    "word": "Serration",
+    "definition": "jagged edge"
+  },
+  {
+    "id": 2359,
+    "word": "Slight",
+    "definition": "1. minor (a); 2. perceived insult (v) and (n)"
+  },
+  {
+    "id": 2360,
+    "word": "Tare",
+    "definition": "1. weed; 2. allowance made for container when weighing"
+  },
+  {
+    "id": 2361,
+    "word": "Unprepossessing",
+    "definition": "unattractive"
+  },
+  {
+    "id": 2362,
+    "word": "Façade",
+    "definition": "1. front elevation of building, 2. false appearance or demeanor"
+  },
+  {
+    "id": 2363,
+    "word": "Impeding",
+    "definition": "hindering [impede (v); impediment (n)]"
+  },
+  {
+    "id": 2364,
+    "word": "Lacuna",
+    "definition": "gap; missing part [plural = lacunae]"
+  },
+  {
+    "id": 2365,
+    "word": "Monolithic",
+    "definition": "united in purpose; forming a single unit"
+  },
+  {
+    "id": 2366,
+    "word": "Pied",
+    "definition": "multicolored"
+  },
+  {
+    "id": 2367,
+    "word": "Roster",
+    "definition": "list of names"
+  },
+  {
+    "id": 2368,
+    "word": "Seemly",
+    "definition": "appropriate (of behavior); decorous"
+  },
+  {
+    "id": 2369,
+    "word": "Analogue",
+    "definition": "1. something similar;"
+  },
+  {
+    "id": 2370,
+    "word": "Commingle",
+    "definition": "mix"
+  },
+  {
+    "id": 2371,
+    "word": "Hallow",
+    "definition": "respect; worship"
+  },
+  {
+    "id": 2372,
+    "word": "Indigence",
+    "definition": "poverty"
+  },
+  {
+    "id": 2373,
+    "word": "Papyrus",
+    "definition": "material used for writing on before paper was invented"
+  },
+  {
+    "id": 2374,
+    "word": "Pique",
+    "definition": "1. annoyance (n); 2. to stimulate interest; to annoy (v)"
+  },
+  {
+    "id": 2375,
+    "word": "Sap",
+    "definition": "1. liquid inside plants (n); 2. to drain; to undermine (v); 3. a fool (n)"
+  },
+  {
+    "id": 2376,
+    "word": "Indecorous",
+    "definition": "unseemly; inappropriate (of behavior)"
+  },
+  {
+    "id": 2377,
+    "word": "Proliferate",
+    "definition": "grow and spread [proliferation (n)]"
+  },
+  {
+    "id": 2378,
+    "word": "Scotch (v)",
+    "definition": "to prevent; stop; disable"
+  },
+  {
+    "id": 2379,
+    "word": "Toy (v)",
+    "definition": "to play with"
+  },
+  {
+    "id": 2380,
+    "word": "Usury",
+    "definition": "lending money at high interest rates"
+  },
+  {
+    "id": 2381,
+    "word": "Wag (n)",
+    "definition": "a witty person"
+  },
+  {
+    "id": 2382,
+    "word": "Gambit",
+    "definition": "opening move; transaction"
+  },
+  {
+    "id": 2383,
+    "word": "Mitigation",
+    "definition": "making less severe [mitigate (v)]"
+  },
+  {
+    "id": 2384,
+    "word": "Obligate",
+    "definition": "compulsory"
+  },
+  {
+    "id": 2385,
+    "word": "Predilection",
+    "definition": "leaning; interest; talent"
+  },
+  {
+    "id": 2386,
+    "word": "Propitiate",
+    "definition": "appease; try to gain favor [propitiation (n)]"
+  },
+  {
+    "id": 2387,
+    "word": "Stanch",
+    "definition": "to stop"
+  },
+  {
+    "id": 2388,
+    "word": "Travesty",
+    "definition": "parody; ridiculous error"
+  },
+  {
+    "id": 2389,
+    "word": "Waft",
+    "definition": "drift smoothly (v); whiff; smell (n)"
+  },
+  {
+    "id": 2390,
+    "word": "Forage",
+    "definition": "search for food"
+  },
+  {
+    "id": 2391,
+    "word": "Lumber",
+    "definition": "1. walk in an ungainly way; 2. timber (wood)"
+  },
+  {
+    "id": 2392,
+    "word": "Muse",
+    "definition": "1. think; meditate (v); 2. a source of inspiration (n) [in mythology, a goddess who gives inspiration]"
+  },
+  {
+    "id": 2393,
+    "word": "Prescience",
+    "definition": "foreknowledge"
+  },
+  {
+    "id": 2394,
+    "word": "Prune",
+    "definition": "1. to trim; 2. a dried plum"
+  },
+  {
+    "id": 2395,
+    "word": "Ready",
+    "definition": "(used of wit) quick"
+  },
+  {
+    "id": 2396,
+    "word": "Resolve",
+    "definition": "firmness (n)"
+  },
+  {
+    "id": 2397,
+    "word": "Squalid",
+    "definition": "dirty and demeaning"
+  },
+  {
+    "id": 2398,
+    "word": "Sullied",
+    "definition": "made dirty or impure [opposite unsullied; sully (v)]"
+  },
+  {
+    "id": 2399,
+    "word": "Veneration",
+    "definition": "worship; respect [venerable (a), venerate (v)]"
+  },
+  {
+    "id": 2400,
+    "word": "Expostulate",
+    "definition": "offer strong objections; remonstrate"
+  },
+  {
+    "id": 2401,
+    "word": "Gossamer",
+    "definition": "delicate; filmy; like gauze"
+  },
+  {
+    "id": 2402,
+    "word": "Inefficacious",
+    "definition": "ineffective"
+  },
+  {
+    "id": 2403,
+    "word": "Pine",
+    "definition": "1. type of evergreen tree; 2. grieve"
+  },
+  {
+    "id": 2404,
+    "word": "Prudish",
+    "definition": "narrow-minded; excessively concerned with morals [prudery (n), prude (n)]"
+  },
+  {
+    "id": 2405,
+    "word": "Quixotic",
+    "definition": "impractically idealistic"
+  },
+  {
+    "id": 2406,
+    "word": "Stipple",
+    "definition": "cover with dots of paint etc."
+  },
+  {
+    "id": 2407,
+    "word": "Abrasion",
+    "definition": "1. damage to skin caused by scraping; 2. process of scraping or rubbing [abrade (v)]"
+  },
+  {
+    "id": 2408,
+    "word": "Adumbrate",
+    "definition": "outline; indicate"
+  },
+  {
+    "id": 2409,
+    "word": "Gall",
+    "definition": "1. bitterness (bad feeling);"
+  },
+  {
+    "id": 2410,
+    "word": "Levee",
+    "definition": "1. raised bank of a river;"
+  },
+  {
+    "id": 2411,
+    "word": "Preternatural",
+    "definition": "unnatural; abnormal"
+  },
+  {
+    "id": 2412,
+    "word": "Quell",
+    "definition": "suppress"
+  },
+  {
+    "id": 2413,
+    "word": "Score (n)",
+    "definition": "written form of music"
+  },
+  {
+    "id": 2414,
+    "word": "Abut",
+    "definition": "to adjoin"
+  },
+  {
+    "id": 2415,
+    "word": "Gavel",
+    "definition": "judge’s hammer"
+  },
+  {
+    "id": 2416,
+    "word": "Lien",
+    "definition": "right to sell property held as a security; legal hold on job etc."
+  },
+  {
+    "id": 2417,
+    "word": "Parenthesis",
+    "definition": "remarks deviating from the main point [parentheses are round brackets in punctuation]"
+  },
+  {
+    "id": 2418,
+    "word": "Sinewy",
+    "definition": "vigorous; having well- developed muscles [a sinew is a tendon]"
+  },
+  {
+    "id": 2419,
+    "word": "Steep (v)",
+    "definition": "to soak in water"
+  },
+  {
+    "id": 2420,
+    "word": "Tamp",
+    "definition": "to plug; press loose matter down tightly (e.g. pack explosives into a hole)"
+  },
+  {
+    "id": 2421,
+    "word": "Venturing",
+    "definition": "1. hazarding; risking; putting forward; 2. going somewhere [venturesome means courageous or willing to take risks]"
+  },
+  {
+    "id": 2422,
+    "word": "Wry",
+    "definition": "1. twisted or bent to one side; 2. dryly humorous"
+  },
+  {
+    "id": 2423,
+    "word": "Decimated",
+    "definition": "kill or destroy a large part of (originally one tenth)"
+  },
+  {
+    "id": 2424,
+    "word": "Fledge",
+    "definition": "1. grow feathers; 2. leave nest [fledgling (n) = an inexperienced person or a baby bird]"
+  },
+  {
+    "id": 2425,
+    "word": "Gouge",
+    "definition": "cut or dig out"
+  },
+  {
+    "id": 2426,
+    "word": "Picayune",
+    "definition": "insignificant; of little value"
+  },
+  {
+    "id": 2427,
+    "word": "Riveting",
+    "definition": "fascinating [to rivet literally means to fix metal plates using metal pins]"
+  },
+  {
+    "id": 2428,
+    "word": "Soliloquy",
+    "definition": "solo speech"
+  },
+  {
+    "id": 2429,
+    "word": "Supplicant",
+    "definition": "person who requests or begs for something [supplicate (v)]"
+  },
+  {
+    "id": 2430,
+    "word": "Transcendental",
+    "definition": "supernatural; going beyond normal experience [transcendent (a)]"
+  },
+  {
+    "id": 2431,
+    "word": "Veritable",
+    "definition": "true; genuine [verity (n)]"
+  },
+  {
+    "id": 2432,
+    "word": "Condescension",
+    "definition": "talking down to someone [condescending (a)]"
+  },
+  {
+    "id": 2433,
+    "word": "Fallacy",
+    "definition": "wrong idea [fallacious (a)]"
+  },
+  {
+    "id": 2434,
+    "word": "Fringe",
+    "definition": "1. decorative border with tassels (n); 2. to form an edge (v)"
+  },
+  {
+    "id": 2435,
+    "word": "Leaven",
+    "definition": "to make light; modify; cause bread to rise using yeast etc."
+  },
+  {
+    "id": 2436,
+    "word": "Prominent",
+    "definition": "1. eminent; 2. protruding; 3. obvious"
+  },
+  {
+    "id": 2437,
+    "word": "Statute",
+    "definition": "law [statutory (a)]"
+  },
+  {
+    "id": 2438,
+    "word": "Expatiate",
+    "definition": "speak or write at great length"
+  },
+  {
+    "id": 2439,
+    "word": "Flag (v)",
+    "definition": "1. to lose energy; 2. to signal"
+  },
+  {
+    "id": 2440,
+    "word": "Indicted",
+    "definition": "accused (of crime)"
+  },
+  {
+    "id": 2441,
+    "word": "Loll",
+    "definition": "laze around; hang out (when used of the tongue)"
+  },
+  {
+    "id": 2442,
+    "word": "Malign",
+    "definition": "slander"
+  },
+  {
+    "id": 2443,
+    "word": "Secure (v)",
+    "definition": "1. to fix firmly; 2. to obtain"
+  },
+  {
+    "id": 2444,
+    "word": "Talon",
+    "definition": "long pointed nail or claw"
+  },
+  {
+    "id": 2445,
+    "word": "Abeyance",
+    "definition": "state of inactivity; disuse"
+  },
+  {
+    "id": 2446,
+    "word": "Disarm",
+    "definition": "1. take away weapons;"
+  },
+  {
+    "id": 2447,
+    "word": "Elaborate",
+    "definition": "1. complex and detailed (a); 2. to expand on (v)"
+  },
+  {
+    "id": 2448,
+    "word": "Jockeying",
+    "definition": "maneuvering; struggling to get ahead of others [jockey (v)]"
+  },
+  {
+    "id": 2449,
+    "word": "Minutiae",
+    "definition": "small details"
+  },
+  {
+    "id": 2450,
+    "word": "Rue",
+    "definition": "regret [rueful (a)]"
+  },
+  {
+    "id": 2451,
+    "word": "Somatic",
+    "definition": "concerned with the body"
+  },
+  {
+    "id": 2452,
+    "word": "Stinting",
+    "definition": "holding back; limiting the supply (of supplies/money etc.) [stint (v)]"
+  },
+  {
+    "id": 2453,
+    "word": "Temperate",
+    "definition": "moderate"
+  },
+  {
+    "id": 2454,
+    "word": "Allure",
+    "definition": "1. attraction (n); 2. to attract (v)"
+  },
+  {
+    "id": 2455,
+    "word": "Forbearing",
+    "definition": "tolerant [forbear (v); forbearance (n)]"
+  },
+  {
+    "id": 2456,
+    "word": "Hegemony",
+    "definition": "political domination; complete authority"
+  },
+  {
+    "id": 2457,
+    "word": "Improbity",
+    "definition": "lack of honesty or integrity"
+  },
+  {
+    "id": 2458,
+    "word": "Qualm",
+    "definition": "hesitation or fear"
+  },
+  {
+    "id": 2459,
+    "word": "Assay",
+    "definition": "1. try; 2. assess purity"
+  },
+  {
+    "id": 2460,
+    "word": "Enlist",
+    "definition": "1. sign up for the army; 2. obtain"
+  },
+  {
+    "id": 2461,
+    "word": "Fabricated",
+    "definition": "made up; false; manufactured [fabricate (v); fabrication(n)]"
+  },
+  {
+    "id": 2462,
+    "word": "Hawser",
+    "definition": "thick rope or cable"
+  },
+  {
+    "id": 2463,
+    "word": "Jibe",
+    "definition": "agree with; complement; match up with (in British usagejibe means mock)"
+  },
+  {
+    "id": 2464,
+    "word": "Peer",
+    "definition": "1. an equal; 2. to stare at;"
+  },
+  {
+    "id": 2465,
+    "word": "Stickler",
+    "definition": "one who is strict about rules or details"
+  },
+  {
+    "id": 2466,
+    "word": "Cloture",
+    "definition": "closure; terminating a debate by voting"
+  },
+  {
+    "id": 2467,
+    "word": "Stomach (v)",
+    "definition": "to tolerate"
+  },
+  {
+    "id": 2468,
+    "word": "Synapse",
+    "definition": "junction between two nerve cells"
+  },
+  {
+    "id": 2469,
+    "word": "Undercutting",
+    "definition": "offering a lower price; undermining"
+  },
+  {
+    "id": 2470,
+    "word": "Arson",
+    "definition": "deliberate, criminal starting of fires"
+  },
+  {
+    "id": 2471,
+    "word": "Intelligible",
+    "definition": "can be understood"
+  },
+  {
+    "id": 2472,
+    "word": "Ironclad",
+    "definition": "cannot be altered; firm"
+  },
+  {
+    "id": 2473,
+    "word": "Lint",
+    "definition": "fluff; soft material used to cover wounds"
+  },
+  {
+    "id": 2474,
+    "word": "Pretension",
+    "definition": "assumed attitude of superiority; arrogance"
+  },
+  {
+    "id": 2475,
+    "word": "Pundit",
+    "definition": "expert"
+  },
+  {
+    "id": 2476,
+    "word": "Pyre",
+    "definition": "ceremonial fire"
+  },
+  {
+    "id": 2477,
+    "word": "Sate",
+    "definition": "satisfy"
+  },
+  {
+    "id": 2478,
+    "word": "Syncopation",
+    "definition": "type of musical rhythm with missed beats"
+  },
+  {
+    "id": 2479,
+    "word": "Abraded",
+    "definition": "worn away; eroded [abrade (v); abrasion (n)]"
+  },
+  {
+    "id": 2480,
+    "word": "Gerontocracy",
+    "definition": "government by the aged"
+  },
+  {
+    "id": 2481,
+    "word": "Maculated",
+    "definition": "spotted"
+  },
+  {
+    "id": 2482,
+    "word": "Quisling",
+    "definition": "traitor"
+  },
+  {
+    "id": 2483,
+    "word": "Sedulity",
+    "definition": "thoroughness; perseverance [sedulous (a)]"
+  },
+  {
+    "id": 2484,
+    "word": "Seine",
+    "definition": "type of fishing net"
+  },
+  {
+    "id": 2485,
+    "word": "Tender",
+    "definition": "to offer"
+  },
+  {
+    "id": 2486,
+    "word": "Waffle",
+    "definition": "talk nonsense"
+  },
+  {
+    "id": 2487,
+    "word": "Exemplar",
+    "definition": "model type [exemplary (a)]"
+  },
+  {
+    "id": 2488,
+    "word": "Homiletics",
+    "definition": "art of preaching and giving sermons"
+  },
+  {
+    "id": 2489,
+    "word": "Impugn",
+    "definition": "challenge; question someone’s honor etc."
+  },
+  {
+    "id": 2490,
+    "word": "Incubus",
+    "definition": "encumbrance; nightmarish thing"
+  },
+  {
+    "id": 2491,
+    "word": "Lope",
+    "definition": "run with long strides"
+  },
+  {
+    "id": 2492,
+    "word": "Macerate",
+    "definition": "soften or break up by soaking; weaken"
+  },
+  {
+    "id": 2493,
+    "word": "Nostrum",
+    "definition": "remedy"
+  },
+  {
+    "id": 2494,
+    "word": "Saw",
+    "definition": "1. tool for cutting; 2. wise saying"
+  },
+  {
+    "id": 2495,
+    "word": "Sibyl",
+    "definition": "prophetess"
+  },
+  {
+    "id": 2496,
+    "word": "Emboss",
+    "definition": "decorate with a raised design"
+  },
+  {
+    "id": 2497,
+    "word": "Limpid",
+    "definition": "transparently clear"
+  },
+  {
+    "id": 2498,
+    "word": "Liturgy",
+    "definition": "form of worship"
+  },
+  {
+    "id": 2499,
+    "word": "Nexus",
+    "definition": "connection"
+  },
+  {
+    "id": 2500,
+    "word": "Odometer",
+    "definition": "instrument to measure distance covered"
+  },
+  {
+    "id": 2501,
+    "word": "Purchase",
+    "definition": "1. grip; 2. buy"
+  },
+  {
+    "id": 2502,
+    "word": "Quotidian",
+    "definition": "daily; routine"
+  },
+  {
+    "id": 2503,
+    "word": "Seminal",
+    "definition": "essential; formative"
+  },
+  {
+    "id": 2504,
+    "word": "Agog",
+    "definition": "amazed; wide-eyed with enthusiasm"
+  },
+  {
+    "id": 2505,
+    "word": "Amortize",
+    "definition": "pay off a debt in installments"
+  },
+  {
+    "id": 2506,
+    "word": "Dormancy",
+    "definition": "state of inactivity"
+  },
+  {
+    "id": 2507,
+    "word": "Figurehead",
+    "definition": "symbol of power; nominal leader"
+  },
+  {
+    "id": 2508,
+    "word": "Jamb",
+    "definition": "door post"
+  },
+  {
+    "id": 2509,
+    "word": "Milk",
+    "definition": "to squeeze; obtain by application of pressure"
+  },
+  {
+    "id": 2510,
+    "word": "Chorales",
+    "definition": "simple hymns"
+  },
+  {
+    "id": 2511,
+    "word": "Frieze",
+    "definition": "decorative border"
+  },
+  {
+    "id": 2512,
+    "word": "Gist",
+    "definition": "essence; main point"
+  },
+  {
+    "id": 2513,
+    "word": "Latent",
+    "definition": "hidden; real but undeveloped"
+  },
+  {
+    "id": 2514,
+    "word": "Partiality",
+    "definition": "bias"
+  },
+  {
+    "id": 2515,
+    "word": "Plodding",
+    "definition": "walking slowly and heavily; uninspired"
+  },
+  {
+    "id": 2516,
+    "word": "Rekindle",
+    "definition": "relight; revive"
+  },
+  {
+    "id": 2517,
+    "word": "Symphony",
+    "definition": "type of musical composition"
+  },
+  {
+    "id": 2518,
+    "word": "Tarnished",
+    "definition": "made dull; spoil (reputation)"
+  },
+  {
+    "id": 2519,
+    "word": "Compromised",
+    "definition": "1. damaged or put in doubt (esp. of reputation); 2. reached an agreement by giving up part of a claim"
+  },
+  {
+    "id": 2520,
+    "word": "Drabness",
+    "definition": "dullness"
+  },
+  {
+    "id": 2521,
+    "word": "Endow",
+    "definition": "give gift; provide with money etc."
+  },
+  {
+    "id": 2522,
+    "word": "Esoterica",
+    "definition": "obscure details"
+  },
+  {
+    "id": 2523,
+    "word": "Falters",
+    "definition": "hesitates"
+  },
+  {
+    "id": 2524,
+    "word": "Prattle",
+    "definition": "mindless talk"
+  },
+  {
+    "id": 2525,
+    "word": "Prohibitive",
+    "definition": "1. prohibiting; 2. exorbitantly expensive"
+  },
+  {
+    "id": 2526,
+    "word": "Purist",
+    "definition": "conservative; one who insists on correct forms of language etc."
+  },
+  {
+    "id": 2527,
+    "word": "Quack",
+    "definition": "charlatan; fake"
+  },
+  {
+    "id": 2528,
+    "word": "Taunt",
+    "definition": "mock; tease"
+  },
+  {
+    "id": 2529,
+    "word": "Arresting (a)",
+    "definition": "attracting attention; striking"
+  },
+  {
+    "id": 2530,
+    "word": "Chantey",
+    "definition": "type of song sung by sailors"
+  },
+  {
+    "id": 2531,
+    "word": "Ferrous",
+    "definition": "concerned with iron or its compounds"
+  },
+  {
+    "id": 2532,
+    "word": "Manipulative",
+    "definition": "scheming"
+  },
+  {
+    "id": 2533,
+    "word": "Orate",
+    "definition": "speak in a pompous manner"
+  },
+  {
+    "id": 2534,
+    "word": "Psychosis",
+    "definition": "severe mental disturbance"
+  },
+  {
+    "id": 2535,
+    "word": "Savor",
+    "definition": "enjoy"
+  },
+  {
+    "id": 2536,
+    "word": "Table (v)",
+    "definition": "put down for future discussion"
+  },
+  {
+    "id": 2537,
+    "word": "Underwrite",
+    "definition": "give guarantee, insure"
+  },
+  {
+    "id": 2538,
+    "word": "Homogeneity",
+    "definition": "evenness; uniformity"
+  },
+  {
+    "id": 2539,
+    "word": "Personification",
+    "definition": "1. represent something as a person; 2. a concrete example of"
+  },
+  {
+    "id": 2540,
+    "word": "Plaque",
+    "definition": "1. surface deposit on teeth or in artery etc.; 2. decorative plate or sign"
+  },
+  {
+    "id": 2541,
+    "word": "Plausibility",
+    "definition": "believability [plausible (a)]"
+  },
+  {
+    "id": 2542,
+    "word": "Resilience",
+    "definition": "resistance; ability to spring back [resilience (a)]"
+  },
+  {
+    "id": 2543,
+    "word": "Trilogy",
+    "definition": "set of three (literary works etc.); tetralogy = set of four"
+  },
+  {
+    "id": 2544,
+    "word": "Vagary",
+    "definition": "something unaccountable; freak"
+  },
+  {
+    "id": 2545,
+    "word": "Aisle",
+    "definition": "corridor; passageway (esp. between rows of seats)"
+  },
+  {
+    "id": 2546,
+    "word": "Discountenance",
+    "definition": "disallow"
+  },
+  {
+    "id": 2547,
+    "word": "Imperative",
+    "definition": "must be obeyed"
+  },
+  {
+    "id": 2548,
+    "word": "Indigent",
+    "definition": "poor; needy [indigence (n)]"
+  },
+  {
+    "id": 2549,
+    "word": "Nadir",
+    "definition": "lowest point"
+  },
+  {
+    "id": 2550,
+    "word": "Paranoia",
+    "definition": "mental state characterized by delusions or excessive fear"
+  },
+  {
+    "id": 2551,
+    "word": "Prudence",
+    "definition": "caution; wisdom"
+  },
+  {
+    "id": 2552,
+    "word": "Resuscitation",
+    "definition": "revival from unconsciousness [resuscitate (v)]"
+  },
+  {
+    "id": 2553,
+    "word": "Shirk",
+    "definition": "avoid (esp. work)"
+  },
+  {
+    "id": 2554,
+    "word": "Teetotalism",
+    "definition": "total abstinence from alcohol"
+  },
+  {
+    "id": 2555,
+    "word": "Calibrate",
+    "definition": "mark an accurate scale on a device"
+  },
+  {
+    "id": 2556,
+    "word": "Cataclysmic",
+    "definition": "violently disruptive [cataclysm (n)]"
+  },
+  {
+    "id": 2557,
+    "word": "Impropriety",
+    "definition": "inappropriate behavior"
+  },
+  {
+    "id": 2558,
+    "word": "Pith",
+    "definition": "center; soft part of stem; essence"
+  },
+  {
+    "id": 2559,
+    "word": "Primordial",
+    "definition": "present from the beginning of time"
+  },
+  {
+    "id": 2560,
+    "word": "Reconnaissance",
+    "definition": "examination or survey conducted in advance [reconnoiter (v)]"
+  },
+  {
+    "id": 2561,
+    "word": "Sinistral",
+    "definition": "left-handed (or counterclockwise) [dextral - right handed]"
+  },
+  {
+    "id": 2562,
+    "word": "Tempers",
+    "definition": "moderates"
+  },
+  {
+    "id": 2563,
+    "word": "Undermine",
+    "definition": "subvert; attempt to overthrow"
+  }
+]
